@@ -16,3 +16,12 @@
 * [CS231n笔记](http://cs231n.github.io/)
 * [CS231n笔记翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 * [CS231n视频](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+
+#书
+
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Neural Networks and Deep Learning(翻译，暂时不全)](https://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details)
+
+#博客
+* [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
+* [colah's blog](http://colah.github.io/)
