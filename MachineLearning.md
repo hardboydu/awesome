@@ -1,6 +1,7 @@
 #大公司开源项目
 
 * [Google TensorFlow](https://www.tensorflow.org/)
+  * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
 * [Facebook Torch](http://torch.ch/)
 * [Microsoft DMTK](http://www.dmtk.io/)
 
