@@ -17,6 +17,7 @@
 * [CS231n笔记](http://cs231n.github.io/)
 * [CS231n笔记翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 * [CS231n视频](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+
 ##國立臺灣大學
 * [Machine Learning Foundations (機器學習基石)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 * [Machine Learning Techniques (機器學習技法)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
