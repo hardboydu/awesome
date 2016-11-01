@@ -17,9 +17,14 @@
 * [CS231n笔记](http://cs231n.github.io/)
 * [CS231n笔记翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 * [CS231n视频](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+##國立臺灣大學
+* [Machine Learning Foundations (機器學習基石)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
+* [Machine Learning Techniques (機器學習技法)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
 #大学实验室
-[南京大学机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/)
+* [南京大学机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/)
+* [國立臺灣大學資訊網路與多媒體研究所](http://www.inm.ntu.edu.tw/)
+  * [李宏毅 (Hung-yi Lee)](http://speech.ee.ntu.edu.tw/~tlkagk/)
 
 #书
 
