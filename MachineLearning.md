@@ -39,3 +39,5 @@
 #博客
 * [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
 * [colah's blog](http://colah.github.io/)
+* [Brilliantly wrong](http://arogozhnikov.github.io/)
+* [Dataquest Blog](http://www.dataquest.io/blog/)
