@@ -1,14 +1,9 @@
-# 搜索
-[快搜](http://so.chongbuluo.com/)
+# 图书资源
 
-# 网盘资源
-[西林街](http://www.xilinjie.com/)
+* [豆瓣图书排名](https://github.com/lanbing510/DouBanSpider)
+* [图灵免费电子书](http://www.ituring.com.cn/book/ebook?sort=free)
 
-[爱挖盘](http://www.iwapan.com/)
+# 在线图书
 
-[胖次](http://www.panc.cc/)
-
-[找文件](http://www.zhaofile.com/)
-
-[呆木瓜](http://md5.daimugua.com/)
+* [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 
