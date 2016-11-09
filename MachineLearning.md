@@ -52,5 +52,8 @@
 * [浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/)
 * [Eli Bendersky's website](http://eli.thegreenplace.net/)
 * [HAKUNA MATATA](http://lan2720.github.io/)
+* [计算机的潜意识](http://www.cnblogs.com/subconscious/)
+  * [EasyPR 智能车牌识别系统](https://github.com/liuruoze/EasyPR)
+* [晓雷机器学习笔记](https://zhuanlan.zhihu.com/xiaoleimlnote)
 
 
