@@ -41,3 +41,9 @@
 * [colah's blog](http://colah.github.io/)
 * [Brilliantly wrong](http://arogozhnikov.github.io/)
 * [Dataquest Blog](http://www.dataquest.io/blog/)
+* [我爱自然语言处理](http://www.52nlp.cn/)
+* [浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/)
+* [Eli Bendersky's website](http://eli.thegreenplace.net/)
+* [HAKUNA MATATA](http://lan2720.github.io/)
+
+
