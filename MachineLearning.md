@@ -13,10 +13,17 @@
 
 #大学课程
 ##斯坦福大学
+### CS231n
 * [CS231n](http://cs231n.stanford.edu/)
 * [CS231n笔记](http://cs231n.github.io/)
 * [CS231n笔记翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 * [CS231n视频](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+
+### UFLDL
+* [UFLDL](http://ufldl.stanford.edu/)
+  * [UFLDL tutorial new](http://deeplearning.stanford.edu/tutorial)
+  * [UFLDL tutorial old](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+  * [UFLDL tutorial old(中文翻译)](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
 ##國立臺灣大學
 * [Machine Learning Foundations (機器學習基石)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
