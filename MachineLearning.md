@@ -42,7 +42,8 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
   * [Neural Networks and Deep Learning(翻译，暂时不全)](https://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details)
   * [Neural Networks and Deep Learning(神经⽹络和深度学习)](https://github.com/zhanggyb/nndl)
-* [Deep Learning (Adaptive Computation and Machine Learning series)](http://www.deeplearningbook.org/)
+* [Deep Learning Book (Adaptive Computation and Machine Learning series)](http://www.deeplearningbook.org/)
+  * [Deep learning Book (翻译)](https://github.com/tigerneil/dlbook-zh-cn)
 
 #博客
 * [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
