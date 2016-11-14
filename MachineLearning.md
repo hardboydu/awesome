@@ -2,6 +2,7 @@
 
 * [Google TensorFlow](https://www.tensorflow.org/)
   * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
+  * [TensorFlow and Deep Learning Tutorials](https://github.com/wagamamaz/tensorflow-tutorial)
 * [Facebook Torch](http://torch.ch/)
 * [Microsoft DMTK](http://www.dmtk.io/)
 
