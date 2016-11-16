@@ -48,6 +48,7 @@
   * [Neural Networks and Deep Learning(神经⽹络和深度学习)](https://github.com/zhanggyb/nndl)
 * [Deep Learning Book (Adaptive Computation and Machine Learning series)](http://www.deeplearningbook.org/)
   * [Deep learning Book (翻译)](https://github.com/tigerneil/dlbook-zh-cn)
+* [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 
 #博客
 * [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
