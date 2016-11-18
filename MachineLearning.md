@@ -35,6 +35,8 @@
 
 #大学实验室
 * [南京大学机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/)
+  * [周志华](http://cs.nju.edu.cn/zhouzh/)
+  * [魏秀参](http://lamda.nju.edu.cn/weixs/)
 * [國立臺灣大學資訊網路與多媒體研究所](http://www.inm.ntu.edu.tw/)
   * [李宏毅 (Hung-yi Lee)](http://speech.ee.ntu.edu.tw/~tlkagk/)
 * [國立臺灣大學 資訊工程學系](https://www.csie.ntu.edu.tw/)
