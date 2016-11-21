@@ -3,3 +3,4 @@
 * [computer-science](https://github.com/open-source-society/computer-science)
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [http-parser](https://github.com/nodejs/http-parser)
+* [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
