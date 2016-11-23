@@ -51,6 +51,8 @@
 * [Deep Learning Book (Adaptive Computation and Machine Learning series)](http://www.deeplearningbook.org/)
   * [Deep learning Book (翻译)](https://github.com/tigerneil/dlbook-zh-cn)
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+* [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 #博客
 * [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
@@ -64,5 +66,10 @@
 * [计算机的潜意识](http://www.cnblogs.com/subconscious/)
   * [EasyPR 智能车牌识别系统](https://github.com/liuruoze/EasyPR)
 * [晓雷机器学习笔记](https://zhuanlan.zhihu.com/xiaoleimlnote)
+* [超智能体](http://gxiiukk.wixsite.com/super)
+  * [生命与智能](https://www.gitbook.com/book/yjango/superorganism/details)
+* [William Chen](http://www.wzchen.com/)
+  * [WILLIAM CHEN ON QUORA](https://www.quora.com/profile/William-Chen-6)
+
 
 
