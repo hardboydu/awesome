@@ -1,4 +1,4 @@
-#大公司开源项目
+#开源项目
 
 * [Google TensorFlow](https://www.tensorflow.org/)
   * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
@@ -6,8 +6,15 @@
   * [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
   * [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
   * [Keras: Deep Learning library for TensorFlow and Theano](https://github.com/fchollet/keras)
+* [MXNET](https://github.com/dmlc/mxnet)
+  * [MXNet Documents](http://mxnet.io/)
+  * [陈天奇](http://homes.cs.washington.edu/~tqchen/)
+  * [李沐](http://www.cs.cmu.edu/~muli/)
+  * [许冰](http://binghsu.com/)
+  * [解浚源](http://homes.cs.washington.edu/~jxie/)
 * [Facebook Torch](http://torch.ch/)
 * [Microsoft DMTK](http://www.dmtk.io/)
+* [caffe](http://caffe.berkeleyvision.org/)
 
 #别人搜集整理的资源列表
 
