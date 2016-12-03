@@ -117,6 +117,12 @@
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/)
+* [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+
+#网站
+
+* [机器学习日报](http://ml.memect.com/)
 
 #博客
 * [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
