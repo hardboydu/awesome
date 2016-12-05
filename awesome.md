@@ -1,3 +1,5 @@
+* [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [computer-science](https://github.com/open-source-society/computer-science)
