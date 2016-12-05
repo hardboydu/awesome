@@ -1,5 +1,4 @@
-* [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-
+* [awesome](https://github.com/sindresorhus/awesome) 非常好的资源搜集列表，非常全
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [computer-science](https://github.com/open-source-society/computer-science)
