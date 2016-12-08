@@ -113,6 +113,7 @@
   * [Neural Networks and Deep Learning(翻译，暂时不全)](https://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details)
   * [Neural Networks and Deep Learning(神经⽹络和深度学习)](https://github.com/zhanggyb/nndl)
 * [Deep Learning Book (Adaptive Computation and Machine Learning series)](http://www.deeplearningbook.org/)
+  * [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese)
   * [Deep learning Book (翻译)](https://github.com/tigerneil/dlbook-zh-cn)
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
