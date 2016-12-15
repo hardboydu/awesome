@@ -6,3 +6,7 @@
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [http-parser](https://github.com/nodejs/http-parser)
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
+
+# blog
+
+* [奇简软件（北京）有限公司 | 超越传统，支持交、差的正则表达式引擎](http://nark.cc/) . (C++, boost, 正则, 算法)
