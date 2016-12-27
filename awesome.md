@@ -16,3 +16,4 @@
 # blog
 
 * [奇简软件（北京）有限公司 | 超越传统，支持交、差的正则表达式引擎](http://nark.cc/) . (C++, boost, 正则, 算法)
+    * [雷鹏](http://blog.csdn.net/whinah)
