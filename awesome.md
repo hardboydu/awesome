@@ -7,6 +7,12 @@
 * [http-parser](https://github.com/nodejs/http-parser)
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
 
+# 正则表达式引擎
+
+* [google re2](https://github.com/google/re2) RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [Intel Hyperscan](https://github.com/01org/hyperscan) High-performance regular expression matching library https://01.org/hyperscan
+* [OpenResty sregex](https://github.com/openresty/sregex) A non-backtracking NFA/DFA-based Perl-compatible regex engine matching on large data streams
+
 # blog
 
 * [奇简软件（北京）有限公司 | 超越传统，支持交、差的正则表达式引擎](http://nark.cc/) . (C++, boost, 正则, 算法)
