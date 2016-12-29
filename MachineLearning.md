@@ -72,7 +72,6 @@
 * [DeepCL OpenCL library to train deep convolutional neural networks](https://github.com/hughperkins/DeepCL)
 * [VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
 
-
 #别人搜集整理的资源列表
 
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
@@ -81,6 +80,9 @@
 * [机器学习(Machine Learning)&深度学习(Deep Learning)资料1](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 * [机器学习(Machine Learning)&深度学习(Deep Learning)资料2](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
 * [data science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [A Guide to Deep Learning by YN2](http://yerevann.com/a-guide-to-deep-learning/)
+* [Practical Deep Learning For Coders](http://course.fast.ai/)
+  [github](https://github.com/fastai/courses)
 
 #大学课程
 ##斯坦福大学
