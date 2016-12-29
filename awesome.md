@@ -7,6 +7,10 @@
 * [http-parser](https://github.com/nodejs/http-parser)
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
 
+# 搜索引擎
+
+* [shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
+
 # 正则表达式引擎
 
 * [google re2](https://github.com/google/re2) RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
