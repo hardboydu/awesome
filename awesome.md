@@ -23,3 +23,6 @@
   * [雷鹏](http://blog.csdn.net/whinah)
 * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
 * [EXACT STRING MATCHING ALGORITHMS](http://www-igm.univ-mlv.fr/~lecroq/string/index.html)
+* [A little bit about a linux kernel ](https://0xax.gitbooks.io/linux-insides/content/index.html)
+  * [github](https://github.com/0xAX/linux-insides)
+  * [zh-cn](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html) [github](https://github.com/MintCN/linux-insides-zh)
