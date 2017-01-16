@@ -16,6 +16,7 @@
 * [google re2](https://github.com/google/re2) RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 * [Intel Hyperscan](https://github.com/01org/hyperscan) High-performance regular expression matching library https://01.org/hyperscan
 * [OpenResty sregex](https://github.com/openresty/sregex) A non-backtracking NFA/DFA-based Perl-compatible regex engine matching on large data streams
+* [Chiyuki Regex](http://hcc.trilines.net/regex/) 简单的正则引擎
 
 # blog
 
