@@ -6,6 +6,7 @@
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [http-parser](https://github.com/nodejs/http-parser)
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
+* [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
 
 # 搜索引擎
 
