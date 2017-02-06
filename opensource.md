@@ -5,3 +5,4 @@
 * [rapidjson](http://rapidjson.org/) . json解析库，C++
 * [Intel TBB (Threading Building Blocks)](https://www.threadingbuildingblocks.org/) . Intel 线程库，C++
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) . C++开发的深度神经网络库，C++
+* [x64dbg](http://x64dbg.com/) . An open-source x64/x32 debugger for windows.
