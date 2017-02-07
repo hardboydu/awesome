@@ -23,6 +23,10 @@
 * [OpenResty sregex](https://github.com/openresty/sregex) A non-backtracking NFA/DFA-based Perl-compatible regex engine matching on large data streams
 * [Chiyuki Regex](http://hcc.trilines.net/regex/) 简单的正则引擎
 
+# 算法
+
+* [Algorithms, Etc. by Jeff Erickson](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
+
 # blog
 
 * [奇简软件（北京）有限公司 | 超越传统，支持交、差的正则表达式引擎](http://nark.cc/) . (C++, boost, 正则, 算法)
