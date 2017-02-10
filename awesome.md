@@ -15,6 +15,7 @@
 # 正则表达式
 
 * [RegexGolf](https://alf.nu/RegexGolf) . 正则表达式在线练习 . [答案](http://felixc.at/regex.alf.nu)
+* [Test your Regex patterns](http://app.jacobappleton.io/app/regex) . 将正则表达式转换成后缀模式、NFA状态图，NFA状态表，DFA状态图，DFA状态表
 
 # 正则表达式引擎
 
