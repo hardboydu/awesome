@@ -8,6 +8,13 @@
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
 * [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
 
+# 数学
+
+* [GNU Octave](https://www.gnu.org/software/octave/)
+* [Maxima, a Computer Algebra System](http://maxima.sourceforge.net/)
+* [GeoGebra](https://www.geogebra.org/home)
+* [Math Blog](http://math-blog.com/)
+
 # 搜索引擎
 
 * [shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
