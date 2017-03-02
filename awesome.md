@@ -19,6 +19,10 @@
 
 * [shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
 
+# 编译原理
+
+* [Build Your Own Lisp](http://buildyourownlisp.com/)
+
 # 正则表达式
 
 * [RegexGolf](https://alf.nu/RegexGolf) . 正则表达式在线练习 . [答案](http://felixc.at/regex.alf.nu)
