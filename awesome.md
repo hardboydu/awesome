@@ -6,7 +6,7 @@
 * [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [http-parser](https://github.com/nodejs/http-parser)
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
-* [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
+* [Network Theory Ltd - publishing free software manuals](http://www.network-theory.co.uk/)
 
 # 数学
 
@@ -38,6 +38,16 @@
 # 算法
 
 * [Algorithms, Etc. by Jeff Erickson](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
+* [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
+
+# C++
+
+* [The Boost C++ Libraries](https://theboostcpplibraries.com/)
+* [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/)
+* [How to Think Like a Computer Scientist C++ Version](http://greenteapress.com/thinkcpp/index.html)
+* [Open Data Structures (in C++)](http://opendatastructures.org/ods-cpp/)
+* [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/)
+* [The Rook's Guide to C++](https://rooksguide.org/)
 
 # blog
 
