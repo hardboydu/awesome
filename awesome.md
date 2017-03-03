@@ -8,6 +8,7 @@
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
 * [Network Theory Ltd - publishing free software manuals](http://www.network-theory.co.uk/)
 * [The Architecture of Open Source Applications](http://aosabook.org)
+* [Producing Open Source Softwar](http://producingoss.com/)
 
 # 数学
 
