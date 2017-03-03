@@ -7,6 +7,7 @@
 * [http-parser](https://github.com/nodejs/http-parser)
 * [Computer Science video courses](https://github.com/Developer-Y/cs-video-courses)
 * [Network Theory Ltd - publishing free software manuals](http://www.network-theory.co.uk/)
+* [The Architecture of Open Source Applications](http://aosabook.org)
 
 # 数学
 
