@@ -16,6 +16,7 @@
 * [Maxima, a Computer Algebra System](http://maxima.sourceforge.net/)
 * [GeoGebra](https://www.geogebra.org/home)
 * [Math Blog](http://math-blog.com/)
+* [About Project Euler](https://projecteuler.net/) [欧拉计划](http://www.ituring.com.cn/minibook/10665) 欧拉计划（Project Euler）是一个解题网站，站内提供了一系列数学题供用户解答，解题的用户主要是对数学和计算机编程感兴趣的成年人及学生。
 
 # 搜索引擎
 
