@@ -40,7 +40,9 @@
 
 # 算法
 
+* [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) 算法和数据结构部分
 * [Algorithms, Etc. by Jeff Erickson](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
+* [Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY) 算法新解
 * [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
 
 # C++
