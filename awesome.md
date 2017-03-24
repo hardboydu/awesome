@@ -9,6 +9,7 @@
 * [Network Theory Ltd - publishing free software manuals](http://www.network-theory.co.uk/)
 * [The Architecture of Open Source Applications](http://aosabook.org)
 * [Producing Open Source Softwar](http://producingoss.com/)
+* [loopy](http://ncase.me/loopy/) a tool for thinking in system
 
 # 数学
 
