@@ -1,4 +1,4 @@
-#开源项目
+# 开源项目
 
 * [Google TensorFlow](https://www.tensorflow.org/)
   * [Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
@@ -71,8 +71,9 @@
 * [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
 * [DeepCL OpenCL library to train deep convolutional neural networks](https://github.com/hughperkins/DeepCL)
 * [VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
+* [nanoflann](https://github.com/jlblancoc/nanoflann) a C++ header-only library for Nearest Neighbor (NN) search wih KD-trees
 
-#别人搜集整理的资源列表
+# 别人搜集整理的资源列表
 
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
@@ -83,9 +84,10 @@
 * [A Guide to Deep Learning by YN2](http://yerevann.com/a-guide-to-deep-learning/)
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
   [github](https://github.com/fastai/courses)
+* [Deep Learning for OCR](https://github.com/hs105/Deep-Learning-for-OCR)
 
-#大学课程
-##斯坦福大学
+# 大学课程
+## 斯坦福大学
 ### CS231n
 * [CS231n](http://cs231n.stanford.edu/)
 * [CS231n笔记](http://cs231n.github.io/)
@@ -98,11 +100,11 @@
   * [UFLDL tutorial old](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
   * [UFLDL tutorial old(中文翻译)](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
-##國立臺灣大學
+## 國立臺灣大學
 * [Machine Learning Foundations (機器學習基石)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 * [Machine Learning Techniques (機器學習技法)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 
-#大学实验室
+# 大学实验室
 * [南京大学机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/)
   * [周志华](http://cs.nju.edu.cn/zhouzh/)
   * [魏秀参](http://lamda.nju.edu.cn/weixs/)
@@ -112,7 +114,7 @@
   * [林軒田(Hsuan-Tien Lin)](http://www.csie.ntu.edu.tw/~htlin/)
   
 
-#书
+# 书
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
   * [Neural Networks and Deep Learning(翻译，暂时不全)](https://www.gitbook.com/book/tigerneil/neural-networks-and-deep-learning-zh/details)
@@ -126,11 +128,11 @@
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/)
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 
-#网站
+# 网站
 
 * [机器学习日报](http://ml.memect.com/)
 
-#博客
+# 博客
 * [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
 * [colah's blog](http://colah.github.io/)
 * [Brilliantly wrong](http://arogozhnikov.github.io/)
@@ -146,6 +148,7 @@
   * [生命与智能](https://www.gitbook.com/book/yjango/superorganism/details)
 * [William Chen](http://www.wzchen.com/)
   * [WILLIAM CHEN ON QUORA](https://www.quora.com/profile/William-Chen-6)
+* [ZY | 数林觅风](https://woaielf.github.io/)
 
 
 
