@@ -55,6 +55,11 @@
 * [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/)
 * [The Rook's Guide to C++](https://rooksguide.org/)
 
+# VIM
+
+* [vim-galore](https://github.com/mhinz/vim-galore)
+  * [vim-galore 中文翻译](https://github.com/wsdjeg/vim-galore-zh_cn)
+
 # blog
 
 * [奇简软件（北京）有限公司 | 超越传统，支持交、差的正则表达式引擎](http://nark.cc/) . (C++, boost, 正则, 算法)
