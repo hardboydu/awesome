@@ -9,4 +9,4 @@
 
 # RPM
 
-* [rhel6u3 rpms](ftp://ftp.riken.jp/Linux/cern/updates/slc61/x86_64/RPMS/)
+ftp://ftp.riken.jp/Linux/cern/updates/slc61/x86_64/RPMS/
