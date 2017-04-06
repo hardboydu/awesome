@@ -7,3 +7,6 @@
 
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 
+# RPM
+
+* [rhel6u3 rpms](ftp://ftp.riken.jp/Linux/cern/updates/slc61/x86_64/RPMS/)
