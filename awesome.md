@@ -107,7 +107,7 @@
 * [lightline.vim](https://github.com/itchyny/lightline.vim)  A light and configurable statusline/tabline for Vim
 * [vim-startify](https://github.com/mhinz/vim-startify) The fancy start screen for Vim.
 * [vimcdoc](https://github.com/asins/vimcdoc)  VIM 中文文档
-
+* [intellivim](https://github.com/dhleong/intellivim) The marriage of IntelliJ and Vim
 
 
 
