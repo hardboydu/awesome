@@ -10,3 +10,7 @@
 # RPM
 
 ftp://ftp.riken.jp/Linux/cern/updates/slc61/x86_64/RPMS/
+
+# Security
+
+* [NSA Hacking Tools](https://github.com/x0rz/EQGRP) 
