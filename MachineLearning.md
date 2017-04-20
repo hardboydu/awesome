@@ -22,6 +22,7 @@
 * [caffe Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/)
   * [caffe github](https://github.com/BVLC/caffe)
   * [Yangqing Jia (贾扬清)](http://daggerfs.com/)
+* [caffe2](http://caffe2.ai/)
 * [deepdream](https://github.com/google/deepdream)
 * [Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano or TensorFlow](https://keras.io/)
 * [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo)
