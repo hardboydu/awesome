@@ -45,6 +45,8 @@
 * [Algorithms, Etc. by Jeff Erickson](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/)
 * [Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY) 算法新解
 * [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
+* [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
+* [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 
 # C++
 
