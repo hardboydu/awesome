@@ -27,6 +27,7 @@
 # 编译原理
 
 * [Build Your Own Lisp](http://buildyourownlisp.com/)
+* [Compiler Explorer's embedded view](https://gcc.godbolt.org)
 
 # 正则表达式
 
