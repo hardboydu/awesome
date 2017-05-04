@@ -11,6 +11,11 @@
 * [Producing Open Source Softwar](http://producingoss.com/)
 * [loopy](http://ncase.me/loopy/) a tool for thinking in system
 
+# LIBRARY
+
+* [dns parse](https://github.com/pflarr/dns_parse)
+* [libphenom](https://github.com/facebook/libphenom) An eventing framework for building high performance and high scalability systems in C. 
+
 # 数学
 
 * [GNU Octave](https://www.gnu.org/software/octave/)
@@ -49,6 +54,7 @@
 * [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
 * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
+* [Implementation of the algorithm](https://github.com/zhangzewen/Algorithms)
 
 # C
 
