@@ -6,6 +6,7 @@
 # 在线图书
 
 * [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
+* [Google Site Reliability Engineering](https://landing.google.com/sre/book.html), [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
 
 # RPM
 
