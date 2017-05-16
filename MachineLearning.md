@@ -104,6 +104,7 @@
 ## 國立臺灣大學
 * [Machine Learning Foundations (機器學習基石)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 * [Machine Learning Techniques (機器學習技法)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
+* [Machine Learning 2017](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html) 台大机器学习课程 2017
 
 # 大学实验室
 * [南京大学机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/)
