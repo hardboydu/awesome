@@ -11,6 +11,7 @@
 * [The Architecture of Open Source Applications](http://aosabook.org)
 * [Producing Open Source Softwar](http://producingoss.com/)
 * [loopy](http://ncase.me/loopy/) a tool for thinking in system
+* [Implementing CIFS - The Common Internet FileSystem](http://ubiqx.org/cifs/Book.html)
 
 # LIBRARY
 
