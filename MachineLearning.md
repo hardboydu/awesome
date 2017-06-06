@@ -86,6 +86,8 @@
 * [Practical Deep Learning For Coders](http://course.fast.ai/)
   [github](https://github.com/fastai/courses)
 * [Deep Learning for OCR](https://github.com/hs105/Deep-Learning-for-OCR)
+* [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)  Essential Cheat Sheets for deep learning and machine learning researchers 
+* [foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
 
 # 大学课程
 ## 斯坦福大学
@@ -129,6 +131,7 @@
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/)
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+* [Machine learning slides](https://github.com/dmitriydligach/PyMLSlides)
 
 # 网站
 
