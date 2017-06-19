@@ -61,6 +61,7 @@
 * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 * [Implementation of the algorithm](https://github.com/zhangzewen/Algorithms)
+* [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 
 # C
 
