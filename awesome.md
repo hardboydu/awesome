@@ -78,6 +78,7 @@
 * [The Rook's Guide to C++](https://rooksguide.org/)
 * [C++ Best Practices](https://github.com/lefticus/cppbestpractices)
 * [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+* [Modernes Cpp](https://github.com/RainerGrimm/ModernesCppSource)
 
 # VIM
 
