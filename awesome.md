@@ -76,6 +76,8 @@
 * [Open Data Structures (in C++)](http://opendatastructures.org/ods-cpp/)
 * [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/)
 * [The Rook's Guide to C++](https://rooksguide.org/)
+* [C++ Best Practices](https://github.com/lefticus/cppbestpractices)
+* [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 
 # VIM
 
