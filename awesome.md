@@ -63,6 +63,7 @@
 * [Implementation of the algorithm](https://github.com/zhangzewen/Algorithms)
 * [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 * [PKU JudgeOnline](http://poj.org/)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//)
 
 # C
 
