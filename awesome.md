@@ -19,6 +19,7 @@
 * [libphenom](https://github.com/facebook/libphenom) An eventing framework for building high performance and high scalability systems in C. 
 * [F-Stack](http://www.f-stack.org/) F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API. 
 * [seastar](http://www.seastar-project.org/) Seastar is an advanced, open-source C++ framework for high-performance server applications on modern hardware. Seastar is used in ScyllaDB, a high-performance NoSQL database compatible with Apache Cassandra. Applications using Seastar can run on Linux or OSv.
+* [folly](https://github.com/facebook/folly/) An open-source C++ library developed and used at Facebook.
 
 # DPDK
 
