@@ -17,6 +17,7 @@
   * [许冰](http://binghsu.com/)
   * [解浚源](http://homes.cs.washington.edu/~jxie/)
 * [Facebook Torch](http://torch.ch/)
+* [Facebook ELF](https://github.com/facebookresearch/ELF/)
 * [Microsoft DMTK](http://www.dmtk.io/)
 * [Microsoft CNTK](https://github.com/Microsoft/CNTK)
 * [caffe Deep learning framework by the BVLC](http://caffe.berkeleyvision.org/)
