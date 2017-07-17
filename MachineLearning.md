@@ -104,6 +104,9 @@
   * [UFLDL tutorial old](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
   * [UFLDL tutorial old(中文翻译)](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
+##纽约大学
+* [Introduction To Machine Learning Spring 2016](http://cs.nyu.edu/~dsontag/courses/ml16/)
+
 ## 國立臺灣大學
 * [Machine Learning Foundations (機器學習基石)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 * [Machine Learning Techniques (機器學習技法)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
