@@ -142,6 +142,7 @@
 * [机器学习日报](http://ml.memect.com/)
 
 # 博客
+* [Mathematical Aspects of Deep Learning](http://elmos.scripts.mit.edu/mathofdeeplearning/)
 * [Not_GOD](http://www.jianshu.com/users/696dc6c6f01c)
 * [colah's blog](http://colah.github.io/)
 * [Brilliantly wrong](http://arogozhnikov.github.io/)
