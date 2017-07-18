@@ -4,6 +4,7 @@
 * [Éric Lévénez's site](https://www.levenez.com/) tags: unix history
 * [Make Linux Embedded Linux Software, Device Drivers](http://www.makelinux.net/) tags: Linux, kernel, Embedded, reference, kernel map
 * [usevim](https://medium.com/usevim) tags: vim, emacs
+* [Random ASCII](https://randomascii.wordpress.com/) Bruce Dawson 性能优化等
 
 # chinese
 
