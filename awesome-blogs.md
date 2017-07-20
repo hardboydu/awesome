@@ -5,6 +5,7 @@
 * [Make Linux Embedded Linux Software, Device Drivers](http://www.makelinux.net/) tags: Linux, kernel, Embedded, reference, kernel map
 * [usevim](https://medium.com/usevim) tags: vim, emacs
 * [Random ASCII](https://randomascii.wordpress.com/) Bruce Dawson 性能优化等
+* [LSE Blog](https://blog.lse.epita.fr/)  Operating systems, computer security, languages theory, and even more!
 
 # chinese
 
