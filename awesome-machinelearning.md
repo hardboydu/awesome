@@ -159,6 +159,8 @@
 * [William Chen](http://www.wzchen.com/)
   * [WILLIAM CHEN ON QUORA](https://www.quora.com/profile/William-Chen-6)
 * [ZY | 数林觅风](https://woaielf.github.io/)
+* [Pinch of Intelligence](http://www.pinchofintelligence.com/)
+* [PullString | Powering Computer Conversation]() PullString, Inc. is leading the field of computer conversation in text, voice, and video through a combination of design and technology. The company's primary product, the PullString Platform, offers a professional authoring environment, hosted AI and machine learning runtime, and integrated conversation analytics to enterprises, agencies, and startups across verticals as diverse as entertainment, customer service, travel, automotive, health and fitness, finance, human resources, and IoT.
 
 
 
