@@ -2,6 +2,7 @@
 
 * [豆瓣图书排名](https://github.com/lanbing510/DouBanSpider)
 * [图灵免费电子书](http://www.ituring.com.cn/book/ebook?sort=free)
+* [Free Data Ebook Archive](http://www.oreilly.com/data/free/archive.html)
 
 # 在线图书
 
