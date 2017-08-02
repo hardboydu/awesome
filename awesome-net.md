@@ -1,0 +1,47 @@
+# Packet Process
+
+## DPDK
+* [DPDK](http://dpdk.org/) DPDK is a set of libraries and drivers for fast packet processing.
+* [DPDK Summit](https://dpdksummit.com/) DPDK Summit Userspace is a community event focused on software developers who contribute to or use DPDK.
+* [MoonGen](https://github.com/emmericp/MoonGen) MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control.
+* [dpdk-ans](https://github.com/ansyun/dpdk-ans)  ANS(Accelerated Network Stack) on DPDK, DPDK native TCP/IP stack.
+* [dpdk-nginx](https://github.com/ansyun/dpdk-nginx)  Fork from official nginx-1.9.5, and run on the dpdk user space TCP/IP stack(ANS"accelerated network stack").
+* [dpdk-redis](https://github.com/ansyun/dpdk-redis)  Fork from official redis-3.0.5, and run on the dpdk user space TCP/IP stack(ANS).
+* [dpdk-iperf](https://github.com/ansyun/dpdk-iperf) Fork from official iperf-3.1.3, and run on the dpdk user space TCP/IP stack(ANS).
+* [Packetgraph ](https://github.com/outscale/packetgraph)  Packetgraph is a library aiming to give the user a tool to build networks graph easily, It's built upon the fast DPDK library.
+
+
+
+## Wrappers
+* [PcapPlusPlus](http://seladb.github.io/PcapPlusPlus-Doc/index.html)  PcapPlusPlus is a multiplatform C++ network sniffing and packet parsing and crafting framework. PcapPlusPlus is meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF_RING
+  * [Github](https://github.com/seladb/PcapPlusPlus)
+* [dpdk adapter](https://github.com/PLVision/dpdkadapter)
+
+# Network Stack
+
+* [F-Stack](http://www.f-stack.org/)  F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API. 
+  * [Github](https://github.com/F-Stack/f-stack)
+* [mTCP](https://github.com/eunyoung14/mtcp)  A Highly Scalable User-level TCP Stack for Multicore Systems
+* [libuinet](https://github.com/pkelsey/libuinet)  a library version of FreeBSD's TCP/IP stack plus extras
+* [mirage-tcpip](https://github.com/mirage/mirage-tcpip)  TCP/IP networking stack in pure OCaml, using the Mirage platform libraries. Includes Ethernet, DHCP, ARP and TCP/IPv4 support. https://mirage.io
+* [lwIP](http://savannah.nongnu.org/projects/lwip/)  lwIP is a small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels and is now continued here. 
+* [net-next-nuse](https://github.com/libos-nuse/net-next-nuse)  Network Stack in Userspace
+* [OpenOnload](http://www.openonload.org/) OpenOnload® is a high performance network stack from Solarflare that dramatically reduces latency and cpu utilisation, and increases message rate and bandwidth. OpenOnload runs on Linux and supports TCP/UDP/IP network protocols with the standard BSD sockets API, and requires no modifications to applications to use. It achieves performance improvements in part by performing network processing at user-level, bypassing the OS kernel entirely on the data path. Networking performance is improved without sacrificing the security and multiplexing functions that the OS kernel normally provides.
+* [ustack](https://github.com/jiakai1000/ustack)  user space TCP/IP stack based on DPDK
+
+
+# Complex
+
+* [Seastar](http://www.seastar-project.org/)  Seastar is an advanced, open-source C++ framework for high-performance server applications on modern hardware. Seastar is used in ScyllaDB, a high-performance NoSQL database compatible with Apache Cassandra. Applications using Seastar can run on Linux or OSv.
+  * [Github](https://github.com/scylladb/seastar)
+* [lagopus](https://github.com/lagopus/lagopus)  Lagopus software switch is a yet another OpenFlow 1.3 software switch implementation. Lagopus software switch is designed to leverage multi-core CPUs for high-performance packet processing and fowarding with DPDK. Many network protocol formats are supported, such as Ethernet, VLAN, QinQ, MAC-in-MAC, MPLS and PBB. In addition, tunnel protocol processing is supported for overlay-type networking with GRE, VxLAN and GTP.
+* [Open vSwitch](https://github.com/openvswitch/ovs)  Open vSwitch is a multilayer software switch licensed under the open source Apache 2 license. Our goal is to implement a production quality switch platform that supports standard management interfaces and opens the forwarding functions to programmatic extension and control.
+* [Snabb](https://github.com/snabbco/snabb)  Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
+* [xDPd](https://github.com/bisdn/xdpd)  "The OpenFlow eXtensible DataPath daemon (xDPd) is a multi-platform, multi OF version, open-source datapath built focusing on performance and extensibility."  xDPd can also be considered a framework for building OpenFlow datapath elements, as it is designed to be easily extended with the support of new forwarding devices.
+* [butterfly](https://github.com/outscale/butterfly)  Butterfly connects Virtual Machines and control their traffic flow
+* [ostinato](http://ostinato.org/)  Network Traffic Generator and Analyzer
+
+
+
+
+
