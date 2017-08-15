@@ -54,8 +54,7 @@
 * [Intel Hyperscan](https://github.com/01org/hyperscan) High-performance regular expression matching library https://01.org/hyperscan
 * [OpenResty sregex](https://github.com/openresty/sregex) A non-backtracking NFA/DFA-based Perl-compatible regex engine matching on large data streams
 * [Chiyuki Regex](http://hcc.trilines.net/regex/) 简单的正则引擎
-
-
+* [oniguruma](https://github.com/kkos/oniguruma) ruby 内置正则引擎，支持多语言
 
 # C
 
