@@ -90,7 +90,11 @@
 * [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)  Essential Cheat Sheets for deep learning and machine learning researchers 
 * [foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
 
-# 大学课程
+# 课程
+
+* [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+  * [字幕](https://github.com/Yukong/Deeplearning.ai-Solutions)
+
 ## 斯坦福大学
 ### CS231n
 * [CS231n](http://cs231n.stanford.edu/)
