@@ -11,6 +11,8 @@
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) Jeffrey D. Ullman
 * [Incremental Construction of Finite-State Automata and Transducers, and their Use in the Natural Language Processing](http://www.jandaciuk.pl/thesis/)
+* [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/)
+* [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 
 # RPM
 
