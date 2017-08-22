@@ -141,6 +141,7 @@
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/)
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [Machine learning slides](https://github.com/dmitriydligach/PyMLSlides)
+* [A First Course in Machine Learning - second edition](http://www.dcs.gla.ac.uk/~srogers/firstcourseml/)
 
 # 网站
 
