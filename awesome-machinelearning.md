@@ -89,6 +89,7 @@
 * [Deep Learning for OCR](https://github.com/hs105/Deep-Learning-for-OCR)
 * [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)  Essential Cheat Sheets for deep learning and machine learning researchers 
 * [foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
+* [Object Detection](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 
 # 课程
 
