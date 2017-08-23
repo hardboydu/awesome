@@ -71,6 +71,8 @@
 * [C++ Best Practices](https://github.com/lefticus/cppbestpractices)
 * [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [Modernes Cpp](https://github.com/RainerGrimm/ModernesCppSource)
+* [rxterm](https://github.com/loopperfect/rxterm) A C++ library for functional-reactive terminals. RxTerm is a lean alternative to ncurses for many applications.
+* [Buckaroo](https://buckaroo.pm/) Buckaroo is a package manager for C/C++
 
 # VIM
 
