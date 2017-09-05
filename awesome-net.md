@@ -42,6 +42,11 @@
 * [butterfly](https://github.com/outscale/butterfly)  Butterfly connects Virtual Machines and control their traffic flow
 * [ostinato](http://ostinato.org/)  Network Traffic Generator and Analyzer
 
+# Application
+
+* [Rspamd](https://rspamd.com/)  Rspamd is an advanced spam filtering system that allows evaluation of messages by a number of rules including regular expressions, statistical analysis and custom services such as URL black lists. Each message is analysed by Rspamd and given a spam score.
+  * [Github](https://github.com/vstakhov/rspamd)
+
 
 
 
