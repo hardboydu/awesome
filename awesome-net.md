@@ -3,14 +3,13 @@
 ## DPDK
 * [DPDK](http://dpdk.org/) DPDK is a set of libraries and drivers for fast packet processing.
 * [DPDK Summit](https://dpdksummit.com/) DPDK Summit Userspace is a community event focused on software developers who contribute to or use DPDK.
-* [MoonGen](https://github.com/emmericp/MoonGen) MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control.
-* [dpdk-ans](https://github.com/ansyun/dpdk-ans)  ANS(Accelerated Network Stack) on DPDK, DPDK native TCP/IP stack.
-* [dpdk-nginx](https://github.com/ansyun/dpdk-nginx)  Fork from official nginx-1.9.5, and run on the dpdk user space TCP/IP stack(ANS"accelerated network stack").
-* [dpdk-redis](https://github.com/ansyun/dpdk-redis)  Fork from official redis-3.0.5, and run on the dpdk user space TCP/IP stack(ANS).
-* [dpdk-iperf](https://github.com/ansyun/dpdk-iperf) Fork from official iperf-3.1.3, and run on the dpdk user space TCP/IP stack(ANS).
 * [Packetgraph ](https://github.com/outscale/packetgraph)  Packetgraph is a library aiming to give the user a tool to build networks graph easily, It's built upon the fast DPDK library.
 
+## Packet Generator
 
+* [TRex](https://trex-tgn.cisco.com/)  TRex is an open source, low cost, stateful traffic generator fuelled by DPDK. It generates L4-7 traffic based on pre-processing and smart replay of real traffic templates. TRex amplifies both client and server side traffic and can scale to 200Gb/sec with one UCS.
+* [pktgen-dpdk](http://dpdk.org/browse/apps/pktgen-dpdk)  Traffic generator powered by DPDK
+* [MoonGen](https://github.com/emmericp/MoonGen) MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control.
 
 ## Wrappers
 * [PcapPlusPlus](http://seladb.github.io/PcapPlusPlus-Doc/index.html)  PcapPlusPlus is a multiplatform C++ network sniffing and packet parsing and crafting framework. PcapPlusPlus is meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF_RING
@@ -28,6 +27,10 @@
 * [net-next-nuse](https://github.com/libos-nuse/net-next-nuse)  Network Stack in Userspace
 * [OpenOnload](http://www.openonload.org/) OpenOnload® is a high performance network stack from Solarflare that dramatically reduces latency and cpu utilisation, and increases message rate and bandwidth. OpenOnload runs on Linux and supports TCP/UDP/IP network protocols with the standard BSD sockets API, and requires no modifications to applications to use. It achieves performance improvements in part by performing network processing at user-level, bypassing the OS kernel entirely on the data path. Networking performance is improved without sacrificing the security and multiplexing functions that the OS kernel normally provides.
 * [ustack](https://github.com/jiakai1000/ustack)  user space TCP/IP stack based on DPDK
+* [dpdk-ans](https://github.com/ansyun/dpdk-ans)  ANS(Accelerated Network Stack) on DPDK, DPDK native TCP/IP stack.
+  * [dpdk-nginx](https://github.com/ansyun/dpdk-nginx)  Fork from official nginx-1.9.5, and run on the dpdk user space TCP/IP stack(ANS"accelerated network stack").
+  * [dpdk-redis](https://github.com/ansyun/dpdk-redis)  Fork from official redis-3.0.5, and run on the dpdk user space TCP/IP stack(ANS).
+  * [dpdk-iperf](https://github.com/ansyun/dpdk-iperf) Fork from official iperf-3.1.3, and run on the dpdk user space TCP/IP stack(ANS).
 
 
 # Complex
