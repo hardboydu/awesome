@@ -10,6 +10,7 @@
 
 # chinese
 
+* [蜗窝科技](http://www.wowotech.net/)  linux kernel
 * [edsionte's TechBlog](http://edsionte.com/techblog/) tags: programming, linux, kernel, c
 * [delphij's Chaos](https://blog.delphij.net/) tags: programming, linux, freebsd, kernel
 * [linux开发专注者(坚持原创)](http://blog.chinaunix.net/uid/23629988.html) tags: linux, kennel
