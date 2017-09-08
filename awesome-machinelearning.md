@@ -95,6 +95,7 @@
 
 * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
   * [字幕](https://github.com/Yukong/Deeplearning.ai-Solutions)
+* [Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL)  This note presents in a technical though hopefully pedagogical way the three most common forms of neural network architectures: Feedforward, Convolutional and Recurrent.
 
 ## 斯坦福大学
 ### CS231n
@@ -109,7 +110,7 @@
   * [UFLDL tutorial old](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
   * [UFLDL tutorial old(中文翻译)](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
-##纽约大学
+## 纽约大学
 * [Introduction To Machine Learning Spring 2016](http://cs.nyu.edu/~dsontag/courses/ml16/)
 
 ## 國立臺灣大學
