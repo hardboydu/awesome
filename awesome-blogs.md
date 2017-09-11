@@ -7,6 +7,7 @@
 * [usevim](https://medium.com/usevim) tags: vim, emacs
 * [Random ASCII](https://randomascii.wordpress.com/) Bruce Dawson 性能优化等
 * [LSE Blog](https://blog.lse.epita.fr/)  Operating systems, computer security, languages theory, and even more!
+* [Denys Haryachyy](https://haryachyy.wordpress.com/blog/)  linux, dpdk
 
 # chinese
 
@@ -17,3 +18,4 @@
 * [西乔的九卦](http://blog.xiqiao.info/) tags: programmer
 * [小武哥的博客 - 左手程序右手诗](http://www.wuzesheng.com)
 * [刘未鹏 | Mind Hacks](http://mindhacks.cn/) tags: 学习方法, 思维改变生活, 算法, 计算机科学, 数学, 机器学习与人工智能, 编程
+* [Feisky's Blog](https://www.feisky.xyz/)  SDN, DPDK
