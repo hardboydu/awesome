@@ -19,3 +19,5 @@
 * [小武哥的博客 - 左手程序右手诗](http://www.wuzesheng.com)
 * [刘未鹏 | Mind Hacks](http://mindhacks.cn/) tags: 学习方法, 思维改变生活, 算法, 计算机科学, 数学, 机器学习与人工智能, 编程
 * [Feisky's Blog](https://www.feisky.xyz/)  SDN, DPDK
+* [Rock3的Linux博客](http://rock3.info/)  linux, kernel
+* [Linux Kernel Exploration](http://ilinuxkernel.com/) linux, kernel
