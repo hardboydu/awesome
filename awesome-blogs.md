@@ -8,6 +8,7 @@
 * [Random ASCII](https://randomascii.wordpress.com/) Bruce Dawson 性能优化等
 * [LSE Blog](https://blog.lse.epita.fr/)  Operating systems, computer security, languages theory, and even more!
 * [Denys Haryachyy](https://haryachyy.wordpress.com/blog/)  linux, dpdk
+* [steve losh](http://stevelosh.com/blog/)  vim, lisp
 
 # chinese
 
