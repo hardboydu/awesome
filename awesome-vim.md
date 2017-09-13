@@ -54,4 +54,5 @@
 * [ag.vim](https://github.com/rking/ag.vim)  Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'
 * [vim-action-ag](https://github.com/Chun-Yang/vim-action-ag)  use [gag] to do Ag search in normal mode.
 * [base16-vim](https://github.com/chriskempson/base16-vim)  Base16 for Vim https://github.com/chriskempson/base16
+* [limelight.vim](https://github.com/junegunn/limelight.vim)   Hyperfocus-writing in Vim.
 
