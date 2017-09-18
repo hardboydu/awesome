@@ -22,3 +22,9 @@
 * [Feisky's Blog](https://www.feisky.xyz/)  SDN, DPDK
 * [Rock3的Linux博客](http://rock3.info/)  linux, kernel
 * [Linux Kernel Exploration](http://ilinuxkernel.com/) linux, kernel
+* [Linux Performance](http://linuxperf.com/)  linux, kernel
+* [ggaaooppeenngg](https://ggaaooppeenngg.github.io/)  linux, kernel
+
+# japanese
+
+* [睡分不足](http://mmi.hatenablog.com/) linux, kernel
