@@ -9,6 +9,7 @@
 * [LSE Blog](https://blog.lse.epita.fr/)  Operating systems, computer security, languages theory, and even more!
 * [Denys Haryachyy](https://haryachyy.wordpress.com/blog/)  linux, dpdk
 * [steve losh](http://stevelosh.com/blog/)  vim, lisp
+* [nairobi-embedded](http://nairobi-embedded.org/)  linux, kernel
 
 # chinese
 
