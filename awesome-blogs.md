@@ -10,6 +10,7 @@
 * [Denys Haryachyy](https://haryachyy.wordpress.com/blog/)  linux, dpdk
 * [steve losh](http://stevelosh.com/blog/)  vim, lisp
 * [nairobi-embedded](http://nairobi-embedded.org/)  linux, kernel
+* [Sagi Kedmi](https://sagi.io/)  algorithm, security
 
 # chinese
 
