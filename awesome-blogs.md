@@ -11,6 +11,9 @@
 * [steve losh](http://stevelosh.com/blog/)  vim, lisp
 * [nairobi-embedded](http://nairobi-embedded.org/)  linux, kernel
 * [Sagi Kedmi](https://sagi.io/)  algorithm, security
+* [Simon Brand](https://blog.tartanllama.xyz/)  linux, kernel, debugger, c++
+* [Eli Bendersky](https://eli.thegreenplace.net/)  linux, kernel, debugger, c++
+* [Joseph Kain](http://system.joekain.com/)  linux, kernel, debugger, c++
 
 # chinese
 
