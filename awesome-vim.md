@@ -2,6 +2,14 @@
 
 * [vim-galore](https://github.com/mhinz/vim-galore)
   * [vim-galore 中文翻译](https://github.com/wsdjeg/vim-galore-zh_cn)
+ 
+## VIMRC
+
+* [amix/vimrc](https://github.com/amix/vimrc)
+* [DemonCloud/dotfile](DemonCloud/dotfile)
+* [maralla/dotvim](https://github.com/maralla/dotvim)
+* [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
+* [skywind3000/vim](https://github.com/skywind3000/vim)
 
 ## Plugin
 
