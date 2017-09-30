@@ -14,6 +14,7 @@
 * [Simon Brand](https://blog.tartanllama.xyz/)  linux, kernel, debugger, c++
 * [Eli Bendersky](https://eli.thegreenplace.net/)  linux, kernel, debugger, c++
 * [Joseph Kain](http://system.joekain.com/)  linux, kernel, debugger, c++
+* [packagecloud:blog](https://blog.packagecloud.io/)  all
 
 # chinese
 
