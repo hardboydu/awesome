@@ -15,6 +15,8 @@
 * [Eli Bendersky](https://eli.thegreenplace.net/)  linux, kernel, debugger, c++
 * [Joseph Kain](http://system.joekain.com/)  linux, kernel, debugger, c++
 * [packagecloud:blog](https://blog.packagecloud.io/)  all
+* [Oil Blog])(http://www.oilshell.org/blog/)  compiler
+* [THEODORE S. NORVELL](http://www.engr.mun.ca/~theo/)  compiler
 
 # chinese
 
