@@ -17,6 +17,7 @@
 * [packagecloud:blog](https://blog.packagecloud.io/)  all
 * [Oil Blog])(http://www.oilshell.org/blog/)  compiler
 * [THEODORE S. NORVELL](http://www.engr.mun.ca/~theo/)  compiler
+* [Scylla Blog](http://www.scylladb.com/users-blog/)  
 
 # chinese
 
@@ -32,6 +33,7 @@
 * [Linux Kernel Exploration](http://ilinuxkernel.com/) linux, kernel
 * [Linux Performance](http://linuxperf.com/)  linux, kernel
 * [ggaaooppeenngg](https://ggaaooppeenngg.github.io/)  linux, kernel
+* [系统技术非业余研究](http://blog.yufeng.info/)  阿里褚霸
 
 # japanese
 
