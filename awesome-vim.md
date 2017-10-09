@@ -6,7 +6,7 @@
 ## VIMRC
 
 * [amix/vimrc](https://github.com/amix/vimrc)
-* [DemonCloud/dotfile](DemonCloud/dotfile)
+* [DemonCloud/dotfile](https://github.com/DemonCloud/dotfile)
 * [maralla/dotvim](https://github.com/maralla/dotvim)
 * [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
 * [skywind3000/vim](https://github.com/skywind3000/vim)
