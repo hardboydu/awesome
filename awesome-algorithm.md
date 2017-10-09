@@ -17,3 +17,4 @@
 * [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
 * [PKU JudgeOnline](http://poj.org/)
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//)
+* [VisuAlgo](https://visualgo.net)  visualising data structures and algorithms through animation
