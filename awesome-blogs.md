@@ -41,3 +41,7 @@
 # japanese
 
 * [睡分不足](http://mmi.hatenablog.com/) linux, kernel
+
+# Russian
+
+* [Sergey Klyaus](http://www.tune-it.ru/web/myaut/home)  linux, kernel, systemtap, dtrace
