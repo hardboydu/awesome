@@ -13,6 +13,7 @@
 * [Incremental Construction of Finite-State Automata and Transducers, and their Use in the Natural Language Processing](http://www.jandaciuk.pl/thesis/)
 * [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/)
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
+* [Dynamic Tracing with DTrace & SystemTap](http://myaut.github.io/dtrace-stap-book/)  
 
 # RPM
 
