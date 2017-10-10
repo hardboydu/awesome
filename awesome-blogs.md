@@ -18,6 +18,8 @@
 * [Oil Blog])(http://www.oilshell.org/blog/)  compiler
 * [THEODORE S. NORVELL](http://www.engr.mun.ca/~theo/)  compiler
 * [Scylla Blog](http://www.scylladb.com/users-blog/)  
+* [Gustavo Duarte](http://duartes.org/gustavo/blog)  linux, kernel
+* [Linuxwall's wiki](http://wiki.linuxwall.info)  These pages contain the results of our test and experimentation with Open Source technologies. You can browse the different articles using the menu on your left, or with the search field in the top left corner.
 
 # chinese
 
@@ -34,6 +36,7 @@
 * [Linux Performance](http://linuxperf.com/)  linux, kernel
 * [ggaaooppeenngg](https://ggaaooppeenngg.github.io/)  linux, kernel
 * [系统技术非业余研究](http://blog.yufeng.info/)  阿里褚霸
+* [Mctrain's Blog](http://ytliu.info/blog/)  linux, kernel
 
 # japanese
 
