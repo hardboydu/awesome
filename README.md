@@ -14,6 +14,7 @@
 * [Modern Information Retrieval](http://people.ischool.berkeley.edu/~hearst/irbook/)
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 * [Dynamic Tracing with DTrace & SystemTap](http://myaut.github.io/dtrace-stap-book/)  
+* [Readings in Database Systems](http://www.redbook.io/)   Readings in Database Systems (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988. Here, we present the Fifth Edition of the Red Book — the first in over ten years.
 
 # RPM
 
