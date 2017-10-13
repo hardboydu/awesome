@@ -1,5 +1,6 @@
 # english
 
+* [hack.guides()](https://www.pluralsight.com/guides)  [github](https://github.com/pluralsight/guides)
 * [Brendan D. Gregg](http://www.brendangregg.com/index.html)  Linux Performance
 * [null program](http://nullprogram.com/) tags: c, linux, vim, programming, emacs
 * [Éric Lévénez's site](https://www.levenez.com/) tags: unix history
