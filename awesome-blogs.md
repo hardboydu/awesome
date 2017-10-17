@@ -39,6 +39,7 @@
 * [ggaaooppeenngg](https://ggaaooppeenngg.github.io/)  linux, kernel
 * [系统技术非业余研究](http://blog.yufeng.info/)  阿里褚霸
 * [Mctrain's Blog](http://ytliu.info/blog/)  linux, kernel
+* [Memory Dump In Cloud](http://oliveryang.net/) linux, kernel
 
 # japanese
 
