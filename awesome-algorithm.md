@@ -15,6 +15,7 @@
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 * [Implementation of the algorithm](https://github.com/zhangzewen/Algorithms)
 * [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si/)
+* [CS 166: Data Structure](https://web.stanford.edu/class/cs166/)
 * [PKU JudgeOnline](http://poj.org/)
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//)
 * [VisuAlgo](https://visualgo.net)  visualising data structures and algorithms through animation
