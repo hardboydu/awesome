@@ -12,7 +12,11 @@
 
 # Stanford University
 
-## [Stanford Computer Security Laboratory](https://seclab.stanford.edu/) [Applied Cryptography Group](https://crypto.stanford.edu/)
+## [Stanford Computer Security Laboratory](https://seclab.stanford.edu/) 
+
+The Security Lab is a part of the Computer Science Department at Stanford University. Research projects in the group focus on various aspects of network and computer security.
+
+   ### [Applied Cryptography Group](https://crypto.stanford.edu/)
 
    The Applied Crypto Group is a part of the Security Lab in the Computer Science Department at Stanford University. Research projects in the group focus on various aspects of network and computer security. In particular the group focuses on applications of cryptography to real-world security problems. For more information follow the links below.
 
