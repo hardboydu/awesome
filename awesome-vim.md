@@ -2,6 +2,7 @@
 
 * [vim-galore](https://github.com/mhinz/vim-galore)
   * [vim-galore 中文翻译](https://github.com/wsdjeg/vim-galore-zh_cn)
+* [awesome-viml](https://github.com/uhub/awesome-viml)
  
 ## VIMRC
 
