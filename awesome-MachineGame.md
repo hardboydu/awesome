@@ -1,0 +1,3 @@
+
+* [Chess Programming Wiki](https://chessprogramming.wikispaces.com/)  is a repository of information about programming computers to play chess. Our goal is to provide a reference for every aspect of chess-programming, information about programmers, researcher and engines. You'll find different ways to implement LMR and bitboard stuff like best magics for most dense magic bitboard tables. For didactic purposes the CPW-Engine has been developed by some wiki members.
+* [Monte Carlo Tree Search](http://mcts.ai)  to provide a convenient reference point for MCTS material on the internet, to aid researchers in the area.
