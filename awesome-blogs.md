@@ -49,3 +49,7 @@
 # Russian
 
 * [Sergey Klyaus](http://www.tune-it.ru/web/myaut/home)  linux, kernel, systemtap, dtrace
+
+# French
+
+* [Luc Hermitte's Blog](http://luchermitte.github.io/)  c++, vim
