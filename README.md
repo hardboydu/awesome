@@ -17,6 +17,7 @@
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 * [Dynamic Tracing with DTrace & SystemTap](http://myaut.github.io/dtrace-stap-book/)  
 * [Readings in Database Systems](http://www.redbook.io/)   (commonly known as the "Red Book") has offered readers an opinionated take on both classic and cutting-edge research in the field of data management since 1988. Here, we present the Fifth Edition of the Red Book — the first in over ten years.
+* [High Performance Browser Networking](https://hpbn.co/)  Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience.
 
 # RPM
 
