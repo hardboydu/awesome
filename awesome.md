@@ -47,6 +47,8 @@
 
 * [RegexGolf](https://alf.nu/RegexGolf) . 正则表达式在线练习 . [答案](http://felixc.at/regex.alf.nu)
 * [Test your Regex patterns](http://app.jacobappleton.io/app/regex) . 将正则表达式转换成后缀模式、NFA状态图，NFA状态表，DFA状态图，DFA状态表
+* [gskinner/regexr](https://github.com/gskinner/regexr)  RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. 
+* [javallone/regexper](https://github.com/javallone/regexper)  Regular Expression Visualization Site
 
 # 正则表达式引擎
 
