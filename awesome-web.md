@@ -13,3 +13,7 @@ Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quick
 * [Bootsnipp](https://bootsnipp.com/)  Design elements, playground and code snippets for Bootstrap HTML/CSS/JS framework
 * [Vegetam/BootstrapPageGenerator](https://github.com/Vegetam/BootstrapPageGenerator)  Bootstrap Page Generator as layoutit
 * [Vegetam/BoostrapPageGenerator4](https://github.com/Vegetam/BoostrapPageGenerator4)  Bootstrap Page Generator 4 alpha 6
+
+## [Semantic UI](https://semantic-ui.com/)
+
+Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
