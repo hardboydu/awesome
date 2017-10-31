@@ -1,3 +1,5 @@
+* [tayllan/awesome-algorithms](https://github.com//tayllan/awesome-algorithms) A curated list of awesome places to learn and/or practice algorithms. Inspired by awesome-awesomeness and all the other awesome Awesome libraries.
+
 * [Open Data Structures](http://opendatastructures.org/)  [github](https://github.com/patmorin/ods) Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs.
 * [wikipedia Book:Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
 * [wikipedia Book:Data Structures Fundamental tools](https://en.wikibooks.org/wiki/Data_Structures)
