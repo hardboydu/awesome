@@ -13,6 +13,7 @@
 * [skywind3000/vim](https://github.com/skywind3000/vim)
 * [harttle/unix-home](https://github.com/harttle/unix-home/tree/macos)
 * [deepzz0/dotfiles](https://github.com/deepzz0/dotfiles)
+* [ddvlad/cfg](https://github.com/ddvlad/cfg)
 
 ## Plugin
 
