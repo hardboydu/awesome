@@ -105,6 +105,9 @@
 * [CS231n笔记翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 * [CS231n视频](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
+### STATS 385
+ * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)   The spectacular recent successes of deep learning are purely empirical. Nevertheless intellectuals always try to explain important developments theoretically. In this literature course we will review recent work of Bruna and Mallat, Mhaskar and Poggio, Papyan and Elad, Bolcskei and co-authors, Baraniuk and co-authors, and others, seeking to build theoretical frameworks deriving deep networks as consequences. After initial background lectures, we will have some of the authors presenting lectures on specific papers. This course meets once weekly.
+
 ### UFLDL
 * [UFLDL](http://ufldl.stanford.edu/)
   * [UFLDL tutorial new](http://deeplearning.stanford.edu/tutorial)
