@@ -74,6 +74,7 @@
 * [DeepCL OpenCL library to train deep convolutional neural networks](https://github.com/hughperkins/DeepCL)
 * [VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
 * [nanoflann](https://github.com/jlblancoc/nanoflann) a C++ header-only library for Nearest Neighbor (NN) search wih KD-trees
+* [thunlp/OpenKE](http://openke.thunlp.org/) OpenKE is an open-source framework for knowledge embedding organized by THUNLP based on the TensorFlow toolkit. In OpenKE, we provide fast and stable toolkits, including the most popular knowledge representation learning (KRL) methods. The framework easy to extend and convenient to design new knowledge embedding models.
 
 # 别人搜集整理的资源列表
 
