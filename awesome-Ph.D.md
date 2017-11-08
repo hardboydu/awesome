@@ -23,3 +23,9 @@ The Security Lab is a part of the Computer Science Department at Stanford Univer
 * [Dan Boneh](https://crypto.stanford.edu/~dabo/)  Professor of Computer Science and Electrical Engineering, Stanford University. 
 Co-director of the Stanford Computer Security Lab
    * book : [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
+
+# Vrije Universiteit Amsterdam
+
+## [Department of Computer Science, Faculty of Sciences, Vrije Universiteit Amsterdam](http://www.cs.vu.nl)
+
+* [Andrew S. Tanenbaum](http://www.cs.vu.nl/~ast/)  Professor of Computer Science
