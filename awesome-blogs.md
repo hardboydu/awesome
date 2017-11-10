@@ -22,6 +22,8 @@
 * [Gustavo Duarte](http://duartes.org/gustavo/blog)  linux, kernel
 * [Linuxwall's wiki](http://wiki.linuxwall.info)  These pages contain the results of our test and experimentation with Open Source technologies. You can browse the different articles using the menu on your left, or with the search field in the top left corner.
 * [larmbr's blog](http://larmbr.com/)  linux, kernel
+* [High Performance Linux(Alexander Krizhanovsky)](http://natsys-lab.blogspot.hk/)  linux, kernel, network
+* [Michael Kerrisk](http://man7.org/) linux, kernel
 * [Mort Yao](https://www.soimort.org/)  mathematics, logic
 
 # chinese
