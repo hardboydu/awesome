@@ -1,0 +1,4 @@
+* [ncurses](https://www.gnu.org/software/ncurses/)  The ncurses (new curses) library is a free software emulation of curses in System V Release 4.0 (SVr4), and more. It uses terminfo format, supports pads and color and multiple highlights and forms characters and function-key mapping, and has all the other SVr4-curses enhancements over BSD curses. SVr4 curses is better known today as X/Open Curses.
+* [newt](https://pagure.io/newt) Newt is a programming library for color text mode, widget based user interfaces.  Newt can be used to add stacked windows, entry widgets, checkboxes, radio buttons, labels, plain text fields, scrollbars, etc., to text mode user interfaces.  Newt is based on the slang library.
+
+* [mpereira/tty-solitaire](https://github.com/mpereira/tty-solitaire)  ncurses-based klondike solitaire game.
