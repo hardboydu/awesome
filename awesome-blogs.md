@@ -44,6 +44,7 @@
 * [Mctrain's Blog](http://ytliu.info/blog/)  linux, kernel
 * [Memory Dump In Cloud](http://oliveryang.net/) linux, kernel
 * [薇拉航线🌺](http://www.zuozuovera.cn/) 安全数据科学
+* [aggresss的专栏](http://blog.csdn.net/aggresss)   linux, kernel
 
 # japanese
 
