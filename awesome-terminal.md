@@ -7,3 +7,6 @@
 * [Inconsolation](https://inconsolation.wordpress.com/)  Adventures with lightweight and minimalist software for Linux
 
 * [br101/horst](https://github.com/br101/horst)  horst is a small, lightweight IEEE802.11 WLAN analyzer with a text interface. Its basic function is similar to tcpdump, Wireshark or Kismet, but it's much smaller and shows different, aggregated information which is not easily available from other tools. It is made for debugging wireless LANs with a focus on getting a quick overview instead of deep packet inspection and has special features for Ad-hoc (IBSS) mode and mesh networks. It can be useful to get a quick overview of what's going on all wireless LAN channels and to identify problems.
+
+* [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)  PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator. It is written and maintained primarily by Simon Tatham.
+* [Putty ICEIV](http://ice.hotmint.com/putty/d2ddw.html) putty Direct2D/DirectWrite
