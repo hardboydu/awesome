@@ -12,6 +12,13 @@
 
 # Stanford University
 
+## [Stanford CS Theory](https://theory.stanford.edu)
+
+As theoretical computer scientists, we seek greater understanding of fundamental computational techniques and their inherent limitations. Research includes the development and analysis of algorithms for a variety of settings and applications. Major directions include Complexity Theory, the Design and Analysis of Algorithms, Cryptography, Algorithmic Game Theory, Geometric Algorithms, algorithmic techniques for internet applications, various aspects of network and computer security, databases, design and analysis of programs and programming languages, and supporting studies in combinatorial, logical, and algebraic mathematics. Please see the research page for an overview of research in a sampling of areas, and refer to the faculty pages for specific research interests.
+
+* [Tim Roughgarden](http://theory.stanford.edu/~tim/)  Professor in the Computer Science and (by courtesy) Management Science and Engineering Departments at Stanford University.
+   * book : [Algorithms Illuminated: Part 1: The Basics](https://www.amazon.com/dp/0999282905)  Algorithms are the heart and soul of computer science. Their applications range from network routing and computational genomics to public-key cryptography and machine learning. Studying algorithms can make you a better programmer, a clearer thinker, and a master of technical interviews. Algorithms Illuminated is an accessible introduction to the subject for anyone with at least a little programming experience. The exposition emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details---like a transcript of what an expert algorithms tutor would say over a series of one-on-one lessons. Part 1 covers asymptotic analysis and big-O notation, divide-and-conquer algorithms and the master method, randomized algorithms, and several famous algorithms for sorting and selection.
+
 ## [Stanford Computer Security Laboratory](https://seclab.stanford.edu/) 
 
 The Security Lab is a part of the Computer Science Department at Stanford University. Research projects in the group focus on various aspects of network and computer security.
