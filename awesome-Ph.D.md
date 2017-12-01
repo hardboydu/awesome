@@ -36,3 +36,8 @@ Co-director of the Stanford Computer Security Lab
 ## [Department of Computer Science, Faculty of Sciences, Vrije Universiteit Amsterdam](http://www.cs.vu.nl)
 
 * [Andrew S. Tanenbaum](http://www.cs.vu.nl/~ast/)  Professor of Computer Science
+
+# University of Toronto
+
+* [Trevor Brown](http://www.cs.utoronto.ca/~tabrown/)  I'm currently a postdoctoral researcher at the Institute of Science and Technology Austria. Before that, I was a postdoctoral researcher at the Technion, Israel Institute of Technology. Before that, I was a PhD student at the University of Toronto. Although I was in the theory group at U of T, I would say that my work is closer to systems work than theory. I care greatly about rigor, whether in theoretical or experimental work. My research currently revolves around concurrent data structures, especially lock-free ones. I am also interested in transactional memory, non-volatile memory, and techniques for coping with non-uniform memory architectures.
+
