@@ -20,6 +20,9 @@
 * [vim plug](https://github.com/junegunn/vim-plug)  Minimalist Vim Plugin Manager
 * [Vundle.vim](https://github.com/VundleVim/Vundle.vim) Vundle, the plug-in manager for Vim 
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) A code-completion engine for Vim 
+* [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim)  normalize async job control api for vim and neovim
+* [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim)  async completion in pure vim script for vim8 and neovim
+* [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp)  async language server protocol plugin for vim and neovim
 * [auto pair](https://github.com/jiangmiao/auto-pairs)  Vim plugin, insert or delete brackets, parens, quotes in pair 
 * [vim surround](https://github.com/tpope/vim-surround) quoting/parenthesizing made simple
 * [vim-easy-align](https://github.com/junegunn/vim-easy-align) A simple, easy-to-use Vim alignment plugin.
