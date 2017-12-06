@@ -8,5 +8,9 @@
 
 * [br101/horst](https://github.com/br101/horst)  horst is a small, lightweight IEEE802.11 WLAN analyzer with a text interface. Its basic function is similar to tcpdump, Wireshark or Kismet, but it's much smaller and shows different, aggregated information which is not easily available from other tools. It is made for debugging wireless LANs with a focus on getting a quick overview instead of deep packet inspection and has special features for Ad-hoc (IBSS) mode and mesh networks. It can be useful to get a quick overview of what's going on all wireless LAN channels and to identify problems.
 
+* [rigel314/ttysys](https://github.com/rigel314/ttysys)  NCurses CPU and RAM usage graph (in percent)
+
+* [freechain](https://www.lionsphil.co.uk/projects/freechain/)  FreeChain is a port of the Atari ST game "Chain Reaction", originally by Stephen Taylor and Colin Whitehead. It is a multi-player strategy game in which players take it in turns to add atoms to the board, causing reactions. If a player loses all of their atoms, they are out of the game. The last player standing wins.
+
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)  PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator. It is written and maintained primarily by Simon Tatham.
 * [Putty ICEIV](http://ice.hotmint.com/putty/d2ddw.html) putty Direct2D/DirectWrite
