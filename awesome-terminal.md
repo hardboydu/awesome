@@ -4,6 +4,10 @@
 
 * [Dan Gookin's Guide to Ncurses Programming](http://c-for-dummies.com/ncurses/)   Get up and running quickly with Ncruses programming. This tutorial covers all the basics, from configuring Ncurses to coding multi-window, full-screen applications for the text mode, terminal window. You must have a foundation in C programming and be familiar with the terminal shell, such as bash. This book has all the information and entertainment you'd expect from a Gookin book. From the author and creator of the original For Dummies title, "DOS For Dummies," as well as multitudinous other books, including "Beginning Programming With C For Dummies."
 
+* [ncurses tutorial(youtube)](https://www.youtube.com/watch?v=lV-OPQhPvSM&list=PL2U2TQ__OrQ8jTf0_noNKtHMuYlyxQl4v)
+
+* [Coding a Rogue/Nethack RPG in C(youtube)](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G)  
+
 * [mpereira/tty-solitaire](https://github.com/mpereira/tty-solitaire)  ncurses-based klondike solitaire game.
 
 * [Inconsolation](https://inconsolation.wordpress.com/)  Adventures with lightweight and minimalist software for Linux
@@ -14,5 +18,9 @@
 
 * [freechain](https://www.lionsphil.co.uk/projects/freechain/)  FreeChain is a port of the Atari ST game "Chain Reaction", originally by Stephen Taylor and Colin Whitehead. It is a multi-player strategy game in which players take it in turns to add atoms to the board, causing reactions. If a player loses all of their atoms, they are out of the game. The last player standing wins.
 
+* [nsuds](https://sourceforge.net/projects/nsuds/) The ncurses sudoku system
+
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)  PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator. It is written and maintained primarily by Simon Tatham.
 * [Putty ICEIV](http://ice.hotmint.com/putty/d2ddw.html) putty Direct2D/DirectWrite
+
+
