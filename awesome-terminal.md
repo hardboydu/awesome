@@ -2,6 +2,8 @@
 
 * [newt](https://pagure.io/newt) Newt is a programming library for color text mode, widget based user interfaces.  Newt can be used to add stacked windows, entry widgets, checkboxes, radio buttons, labels, plain text fields, scrollbars, etc., to text mode user interfaces.  Newt is based on the slang library.
 
+* [Dan Gookin's Guide to Ncurses Programming](http://c-for-dummies.com/ncurses/)   Get up and running quickly with Ncruses programming. This tutorial covers all the basics, from configuring Ncurses to coding multi-window, full-screen applications for the text mode, terminal window. You must have a foundation in C programming and be familiar with the terminal shell, such as bash. This book has all the information and entertainment you'd expect from a Gookin book. From the author and creator of the original For Dummies title, "DOS For Dummies," as well as multitudinous other books, including "Beginning Programming With C For Dummies."
+
 * [mpereira/tty-solitaire](https://github.com/mpereira/tty-solitaire)  ncurses-based klondike solitaire game.
 
 * [Inconsolation](https://inconsolation.wordpress.com/)  Adventures with lightweight and minimalist software for Linux
