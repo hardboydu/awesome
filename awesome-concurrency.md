@@ -19,3 +19,9 @@ From smart phones, to multi-core CPUs and GPUs, to the world's largest supercomp
 [spring2013](http://15418.courses.cs.cmu.edu/spring2013/home) . [spring2014](http://15418.courses.cs.cmu.edu/spring2014/home) . [spring2015](http://15418.courses.cs.cmu.edu/spring2015/home) . [spring2016](http://15418.courses.cs.cmu.edu/spring2016/home) . [fall2016](http://15418.courses.cs.cmu.edu/fall2016/home). [spring2017](http://15418.courses.cs.cmu.edu/spring2017/home) . [fall2017](http://15418.courses.cs.cmu.edu/fall2017/home)
 
 每个课程后面的 article 目录里的资源无法直接访问，可以通过在后边加数字的方式来访问，例如 http://15418.courses.cs.cmu.edu/spring2013/article/46
+
+## [University of Mary Washington](http://www.umw.edu/)
+
+### [CPSC 425: Parallel Computing](http://cs.umw.edu/~finlayson/class/fall16/cpsc425/)
+This course provides an introduction to parallel computing, covering topics including parallel architectures, programming techniques and libraries, the study of existing parallel computing systems, and performance analysis. Students will use a variety of hardware to explore current libraries and methods used for parallel programming.
+
