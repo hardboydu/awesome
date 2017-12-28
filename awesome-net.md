@@ -19,6 +19,10 @@
   * [Github](https://github.com/seladb/PcapPlusPlus)
 * [dpdk adapter](https://github.com/PLVision/dpdkadapter)
 
+## [ixy](https://github.com/emmericp/ixy)  a userspace network driver in 1000 lines of code
+
+ixy is a simple userspace packet processing framework. It takes exclusive control of a network adapter and implements the whole driver in userspace. Its architecture is similar to DPDK and Snabb and completely different from (seemingly similar) frameworks such as netmap, pfq, pf_ring, or XDP (all of which rely on kernel components).
+
 # Network Stack
 
 * [F-Stack](http://www.f-stack.org/)  F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API. 
