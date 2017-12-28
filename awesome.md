@@ -1,5 +1,16 @@
+# awesome
+
 * [awesome](https://github.com/sindresorhus/awesome) 非常好的资源搜集列表，非常全
-  * [awesome pcap tools](https://github.com/caesar0301/awesome-pcaptools)
+* [awesome pcap tools](https://github.com/caesar0301/awesome-pcaptools)
+
+# websites and blog 
+
+* [爱可可-爱生活](https://www.weibo.com/fly51fly)  爱可可-爱生活的运营者陈光老师。陈光目前(2016)是北京邮电大学模式识别实验室的一名副教授。陈光教授所运营的这个微博账号从早晨4-5点开始，每天大概发布几十条原创微博，共享科技行业最新的知识和资讯。这些内容完全由陈光教授手动发布。
+* [好东西传送门](https://weibo.com/haoawesome)  鲍捷。《好东西传送门》每天发送的基于不同主题的日报(如机器学习、大数据、Web技术等)，帮助大家在信息泛滥的时代里很好的挑选出了优质的专业知识。如今，《好东西传送门》已经在微博上积累了5万多的忠实粉丝。而经将门对话后得知，《好东西传送门》的运营者鲍捷目前也是一名创业者，正全力于探索人工智能在金融领域的应用。
+* [网路冷眼](https://weibo.com/lewhwa?is_all=1)
+
+# aaa
+
 * [A Study path for Game Programmer](https://github.com/miloyip/game-programmer/) 成为游戏开发工程师的学习路径，图书列表
 * [free-programming-books](https://github.com/vhf/free-programming-books)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
