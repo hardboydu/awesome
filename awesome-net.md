@@ -1,3 +1,9 @@
+# Websites and blogs
+
+* [TUM Info VIII](https://www.net.in.tum.de) 
+Technical University of Munich , 
+In research and teaching we focus on components, methods and systems of digital telecommunication and networking. The general term for all these fields is telematics (the combination of telecommunication and informatics).
+
 # Packet Process
 
 ## DPDK
