@@ -28,3 +28,7 @@ Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quick
 ## [Semantic UI](https://semantic-ui.com/)
 
 Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+
+# BLOG
+
+* [Cody Lindley](http://codylindley.com/)   Cody Lindley is a front-end/JavaScript developer and recovering Flash developer. He has an extensive background working professionally (20+ years) with HTML, CSS, JavaScript, and client-side performance techniques as it pertains to web development. If he is not wielding client-side code he is likely toying with interface/interaction design or front-end application architecture. When not sitting in front of a computer, it's a sure bet he is hanging out with his wife & three boys in Meridian, Idaho. In his spare time Cody is working towards being a "One Dollar Apologist" and enjoys defending the evidence for a classical Christian world-view with reason and empathy at c-m-c-a.com.
