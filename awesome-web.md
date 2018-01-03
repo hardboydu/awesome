@@ -32,3 +32,9 @@ Semantic is a development framework that helps create beautiful, responsive layo
 # BLOG
 
 * [Cody Lindley](http://codylindley.com/)   Cody Lindley is a front-end/JavaScript developer and recovering Flash developer. He has an extensive background working professionally (20+ years) with HTML, CSS, JavaScript, and client-side performance techniques as it pertains to web development. If he is not wielding client-side code he is likely toying with interface/interaction design or front-end application architecture. When not sitting in front of a computer, it's a sure bet he is hanging out with his wife & three boys in Meridian, Idaho. In his spare time Cody is working towards being a "One Dollar Apologist" and enjoys defending the evidence for a classical Christian world-view with reason and empathy at c-m-c-a.com.
+
+* [whatpixel](http://whatpixel.com/)  WhatPixel is a digital design & coding blog publishing news, resources, reviews, and featured stories relevant to designers & digital creatives. The site is geared towards web and mobile app designers along with developers and programmers.
+
+Existing tech sites offer plenty of great tech news. But there aren’t as many relevant UI/UX sites with great content. And with the design industry growing larger every year, more people are finding their way into this field.
+
+Whether you’re looking for frontend frameworks, cool free webapps, the latest new books or general resources for digital work, WhatPixel has you covered.
