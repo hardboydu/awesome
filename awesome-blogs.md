@@ -25,6 +25,7 @@
 * [High Performance Linux(Alexander Krizhanovsky)](http://natsys-lab.blogspot.hk/)  linux, kernel, network
 * [Michael Kerrisk](http://man7.org/) linux, kernel
 * [Mort Yao](https://www.soimort.org/)  mathematics, logic
+* [smtebooks](https://smtebooks.com/)  book
 
 # chinese
 
