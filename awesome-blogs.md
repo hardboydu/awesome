@@ -47,6 +47,9 @@
 * [aggresss的专栏](http://blog.csdn.net/aggresss)   linux, kernel
 * [黃偉寧・Wei-Ning Huang (AZ)](http://azhuang.me/)
 * [teawater(朱辉)](http://teawater.github.io/)  linux, kernel, gdb
+* [vistart's blog](https://blog.vistart.me/)  book
+* [finelybook](http://finelybook.com/)  book
+* [SaltTiger](https://salttiger.com/) book
 
 # japanese
 
