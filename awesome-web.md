@@ -35,6 +35,6 @@ Semantic is a development framework that helps create beautiful, responsive layo
 
 * [whatpixel](http://whatpixel.com/)  WhatPixel is a digital design & coding blog publishing news, resources, reviews, and featured stories relevant to designers & digital creatives. The site is geared towards web and mobile app designers along with developers and programmers.
 
-Existing tech sites offer plenty of great tech news. But there aren’t as many relevant UI/UX sites with great content. And with the design industry growing larger every year, more people are finding their way into this field.
+  Existing tech sites offer plenty of great tech news. But there aren’t as many relevant UI/UX sites with great content. And with the design industry growing larger every year, more people are finding their way into this field.
 
-Whether you’re looking for frontend frameworks, cool free webapps, the latest new books or general resources for digital work, WhatPixel has you covered.
+  Whether you’re looking for frontend frameworks, cool free webapps, the latest new books or general resources for digital work, WhatPixel has you covered.
