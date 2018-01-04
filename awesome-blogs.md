@@ -26,6 +26,7 @@
 * [Michael Kerrisk](http://man7.org/) linux, kernel
 * [Mort Yao](https://www.soimort.org/)  mathematics, logic
 * [smtebooks](https://smtebooks.com/)  book
+* [Project Zero](https://googleprojectzero.blogspot.com/) Security
 
 # chinese
 
