@@ -11,3 +11,5 @@
 # Text Editor
 
 * [TextEditors Wiki: HomePage](http://texteditors.org)  Welcome to http://TextEditors.org, your home for text editor reviews, analysis, and commentary by the community at large. Home of the largest collection of text editor information on the web. This site is as inclusive as possible. Any platform, any OS, any chip, any language, etc. There's plenty of room for everyone. If it's a text editor that runs on a computer, the wiki wants to document it.
+* [Scintilla](http://scintilla.org/)  Scintilla is a free source code editing component. It comes with complete source code and a license that permits use in any free project or commercial product.
+* [GNU Zile](https://www.gnu.org/software/zile/) GNU Zile is a text editor development kit, so that you can (relatively) quickly develop your own ideal text editor without reinventing the wheel for many of the common algorithms and data-structures needed to do so.
