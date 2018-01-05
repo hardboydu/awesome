@@ -8,4 +8,6 @@
 
 * [Microsoft Toolkit](https://forums.mydigitallife.net/threads/microsoft-toolkit-official-kms-solution-for-microsoft-products.28669/)  This is a set of tools and functions for managing licensing, deploying, and activating Microsoft Office and Windows. All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed), AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported. For information about individual functions, see the program readme.
 
+# Text Editor
 
+* [TextEditors Wiki: HomePage](http://texteditors.org)  Welcome to http://TextEditors.org, your home for text editor reviews, analysis, and commentary by the community at large. Home of the largest collection of text editor information on the web. This site is as inclusive as possible. Any platform, any OS, any chip, any language, etc. There's plenty of room for everyone. If it's a text editor that runs on a computer, the wiki wants to document it.
