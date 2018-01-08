@@ -6,16 +6,16 @@ In research and teaching we focus on components, methods and systems of digital 
 
 The chair is active in the following research areas:
 
-Network Security
-Blockchain Technology
-Information Privacy
-Traffic Measurement and Analysis
-Software Defined Networking
-Future Internet
-Peer-to-Peer and Overlay Networks
-Autonomic Networks / Self-Management
-Wireless Networks
-Resilience
+* Network Security
+* Blockchain Technology
+* Information Privacy
+* Traffic Measurement and Analysis
+* Software Defined Networking
+* Future Internet
+* Peer-to-Peer and Overlay Networks
+* Autonomic Networks / Self-Management
+* Wireless Networks
+* Resilience
 
 # Packet Process
 
