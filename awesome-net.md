@@ -4,18 +4,21 @@
 Technical University of Munich , 
 In research and teaching we focus on components, methods and systems of digital telecommunication and networking. The general term for all these fields is telematics (the combination of telecommunication and informatics).
 
-The chair is active in the following research areas:
+  The chair is active in the following research areas:
 
-* Network Security
-* Blockchain Technology
-* Information Privacy
-* Traffic Measurement and Analysis
-* Software Defined Networking
-* Future Internet
-* Peer-to-Peer and Overlay Networks
-* Autonomic Networks / Self-Management
-* Wireless Networks
-* Resilience
+  * Network Security
+  * Blockchain Technology
+  * Information Privacy
+  * Traffic Measurement and Analysis
+  * Software Defined Networking
+  * Future Internet
+  * Peer-to-Peer and Overlay Networks
+  * Autonomic Networks / Self-Management
+  * Wireless Networks
+  * Resilience
+  
+* [HISTORY - HIgh Speed neTwork mOnitoRing and analYsis](http://www.history-project.net)  The aim of this project is to build an architecture, methods, and tools for distributed network monitoring and analysis. The HISTORY architecture allows gathering information about network traffic at high-speed and at distributed network monitors. The monitoring information is delivered to one or more collectors for further analysis using standardized protocols such as IPFIX (IP Flow Information eXport) and PSAMP (Packet SAMPling). Envisioned applications are accounting and charging, attack and intrusion detection, and traceback.Visualization techniques and anonymization methods round off the big picture. The studied analysis methods are validated in experimental environments as well as in simulated networks. Finally, we also investigate solutions for remotely configuring distributed network monitors.
+The developed methodologies for monitoring, storing, analyzing high numbers of packets and flows are suitable for deployment on inexpensive low-end hardware. All published tools will be available under an open source license. The usage of standard protocols allows deploying other standard-conform products and implementations within our architecture and makes it possible to use selected components of our architecture in other contexts as well. 
 
 # Packet Process
 
