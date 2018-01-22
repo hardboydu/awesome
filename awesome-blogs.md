@@ -28,6 +28,7 @@
 * [smtebooks](https://smtebooks.com/)  book
 * [Project Zero](https://googleprojectzero.blogspot.com/) Security, hack
 * [cyber.wtf](https://cyber.wtf/)  Security, hack
+* [Bit Bashing](https://bitbashing.io)  c++, arch, tex
 
 # chinese
 
