@@ -67,3 +67,7 @@
 # French
 
 * [Luc Hermitte's Blog](http://luchermitte.github.io/)  c++, vim
+
+# Korean
+
+* [문c 블로그](http://jake.dothome.co.kr/)  linux, kernel
