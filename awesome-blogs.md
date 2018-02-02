@@ -29,6 +29,8 @@
 * [Project Zero](https://googleprojectzero.blogspot.com/) Security, hack
 * [cyber.wtf](https://cyber.wtf/)  Security, hack
 * [Bit Bashing](https://bitbashing.io)  c++, arch, tex
+* [PAUL CAVALLARO](http://paulcavallaro.com/)  arch
+* [The ryg blog](https://fgiesen.wordpress.com/) arch
 
 # chinese
 
