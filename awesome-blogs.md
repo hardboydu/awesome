@@ -31,6 +31,7 @@
 * [Bit Bashing](https://bitbashing.io)  c++, arch, tex
 * [PAUL CAVALLARO](http://paulcavallaro.com/)  arch
 * [The ryg blog](https://fgiesen.wordpress.com/) arch
+* [BREAK | BETTER](https://blog.patricktriest.com/)  web, javascript, python
 
 # chinese
 
