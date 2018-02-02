@@ -31,6 +31,16 @@ The Security Lab is a part of the Computer Science Department at Stanford Univer
 Co-director of the Stanford Computer Security Lab
    * book : [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
 
+## [Computer Graphics at Stanford University](http://graphics.stanford.edu/)
+
+* [KAYVON FATAHALIAN](http://graphics.stanford.edu/~kayvonf/)  Assistant Professor of Computer Science Stanford University\
+
+   * 15-418/15-618: Parallel Computer Architecture and Programming
+      * (Spring 2012, 2013, 2014, 2015, 2016, 2017, and at Tsinghua in Summer 2017)
+   * 15-769: Visual Computing Systems (Fall 2013, Fall 2014, Fall 2016)
+   * 15-462/662: Computer Graphics (Fall 2015)
+   * 15-869: Graphics and Imaging Architectures (Fall 2011)
+
 # Vrije Universiteit Amsterdam
 
 ## [Department of Computer Science, Faculty of Sciences, Vrije Universiteit Amsterdam](http://www.cs.vu.nl)
