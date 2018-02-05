@@ -25,3 +25,9 @@ From smart phones, to multi-core CPUs and GPUs, to the world's largest supercomp
 ### [CPSC 425: Parallel Computing](http://cs.umw.edu/~finlayson/class/fall16/cpsc425/)
 This course provides an introduction to parallel computing, covering topics including parallel architectures, programming techniques and libraries, the study of existing parallel computing systems, and performance analysis. Students will use a variety of hardware to explore current libraries and methods used for parallel programming.
 
+## [University of Cambridge Computer Laboratory](http://www.cl.cam.ac.uk)
+
+### [Networks and Operating Systems group](http://www.cl.cam.ac.uk/research/srg/netos/)
+
+
+
