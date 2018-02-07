@@ -32,6 +32,7 @@
 * [PAUL CAVALLARO](http://paulcavallaro.com/)  arch
 * [The ryg blog](https://fgiesen.wordpress.com/) arch
 * [BREAK | BETTER](https://blog.patricktriest.com/)  web, javascript, python
+* [Agner Fog](http://www.agner.org/)  optimization 
 
 # chinese
 
