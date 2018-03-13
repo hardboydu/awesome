@@ -33,6 +33,7 @@
 * [The ryg blog](https://fgiesen.wordpress.com/) arch
 * [BREAK | BETTER](https://blog.patricktriest.com/)  web, javascript, python
 * [Agner Fog](http://www.agner.org/)  optimization 
+* [Zakir Durumeric](https://zakird.com/) Security
 
 # chinese
 
