@@ -34,6 +34,7 @@
 * [BREAK | BETTER](https://blog.patricktriest.com/)  web, javascript, python
 * [Agner Fog](http://www.agner.org/)  optimization 
 * [Zakir Durumeric](https://zakird.com/) Security
+* [Paul Irish](https://www.paulirish.com/) Webkit, front-end
 
 # chinese
 
