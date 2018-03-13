@@ -38,6 +38,7 @@
 
 # chinese
 
+* [博粹](https://githuber.cn/)  博采众长，粹集百家——GitHub Page精选
 * [蜗窝科技](http://www.wowotech.net/)  linux kernel
 * [edsionte's TechBlog](http://edsionte.com/techblog/) tags: programming, linux, kernel, c
 * [delphij's Chaos](https://blog.delphij.net/) tags: programming, linux, freebsd, kernel
@@ -62,6 +63,8 @@
 * [SaltTiger](https://salttiger.com/) book
 * [离别歌](https://www.leavesongs.com/)  security
 * [codinglabs](http://blog.codinglabs.org/)  front-end, math
+* [温国兵的随想录](https://dbarobin.com/) blockchain, mysql, programming
+* [Wuyuan's Blog](https://wuyuans.com/) 嵌入式开发、图像处理。喜欢电影，压制电影，分享电影, php、python、mysql、c/c++、golang
 
 # japanese
 
