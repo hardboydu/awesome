@@ -35,6 +35,9 @@
 * [Agner Fog](http://www.agner.org/)  optimization 
 * [Zakir Durumeric](https://zakird.com/) Security
 * [Paul Irish](https://www.paulirish.com/) Webkit, front-end
+* [George W. Hart](http://www.georgehart.com/) math
+* [ArgCV](https://argcv.com/)  c++
+* [Scott Hanselman](http://www.hanselman.com/) asp.net
 
 # chinese
 
@@ -65,6 +68,7 @@
 * [codinglabs](http://blog.codinglabs.org/)  front-end, math
 * [温国兵的随想录](https://dbarobin.com/) blockchain, mysql, programming
 * [Wuyuan's Blog](https://wuyuans.com/) 嵌入式开发、图像处理。喜欢电影，压制电影，分享电影, php、python、mysql、c/c++、golang
+* [Ditro](http://deathking.github.io/)  lisp
 
 # japanese
 
