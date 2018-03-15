@@ -69,6 +69,7 @@
 * [温国兵的随想录](https://dbarobin.com/) blockchain, mysql, programming
 * [Wuyuan's Blog](https://wuyuans.com/) 嵌入式开发、图像处理。喜欢电影，压制电影，分享电影, php、python、mysql、c/c++、golang
 * [Ditro](http://deathking.github.io/)  lisp
+* [Infinite Loop](http://www.infloop.tw/) Python
 
 # japanese
 
