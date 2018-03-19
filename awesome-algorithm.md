@@ -21,3 +21,4 @@
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//)
 * [VisuAlgo](https://visualgo.net)  visualising data structures and algorithms through animation
 * [University of Waterloo Algorithms and Data Structures](https://ece.uwaterloo.ca/~dwharder/aads/)
+* [IDEA – nonverbal algorithm assembly instructions](https://idea-instructions.com/)
