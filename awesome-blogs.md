@@ -38,6 +38,12 @@
 * [George W. Hart](http://www.georgehart.com/) math
 * [ArgCV](https://argcv.com/)  c++
 * [Scott Hanselman](http://www.hanselman.com/) asp.net
+* [Regex Tutorial&mdash;From Regex 101 to Advanced Regex](http://www.rexegg.com/)
+* [The Digital Antiquarian](https://www.filfre.net/) Game Development
+* [Refactoring Lightly](https://refactoringlightly.wordpress.com/)  code, Java, Go, algorithms, CS fundamentals
+* [Ted Kaminski](https://www.tedinski.com/)  Complier
+* [Henrik Warne](https://henrikwarne.com) Testing
+* [Water Programming: A Collaborative Research Blog](https://waterprogramming.wordpress.com/)  Python
 
 # chinese
 
