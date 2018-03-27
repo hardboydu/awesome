@@ -44,6 +44,8 @@
 * [Ted Kaminski](https://www.tedinski.com/)  Complier
 * [Henrik Warne](https://henrikwarne.com) Testing
 * [Water Programming: A Collaborative Research Blog](https://waterprogramming.wordpress.com/)  Python
+* [MTU Ninja](https://vincent.bernat.im/en/blog/)  network
+* [John D. Cook](https://www.johndcook.com/blog/)  algorithm
 
 # chinese
 
