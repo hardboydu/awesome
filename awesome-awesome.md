@@ -5,3 +5,4 @@
 * [Awesome list of Important Podcasts for software engineers](https://github.com/rShetty/awesome-podcasts)
 * [Structured text tools](https://github.com/dbohdan/structured-text-tools)
 * [file format](http://www.loc.gov/preservation/digital/formats/)
+* [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)  🤓 Build your own (insert technology here)

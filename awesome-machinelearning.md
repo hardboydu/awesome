@@ -101,30 +101,37 @@
 * [Technical_Book_DL](https://github.com/tomepel/Technical_Book_DL)  This note presents in a technical though hopefully pedagogical way the three most common forms of neural network architectures: Feedforward, Convolutional and Recurrent.
 
 ## 斯坦福大学
+
 ### CS231n
+
 * [CS231n](http://cs231n.stanford.edu/)
 * [CS231n笔记](http://cs231n.github.io/)
 * [CS231n笔记翻译](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 * [CS231n视频](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
 ### STATS 385
- * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)   The spectacular recent successes of deep learning are purely empirical. Nevertheless intellectuals always try to explain important developments theoretically. In this literature course we will review recent work of Bruna and Mallat, Mhaskar and Poggio, Papyan and Elad, Bolcskei and co-authors, Baraniuk and co-authors, and others, seeking to build theoretical frameworks deriving deep networks as consequences. After initial background lectures, we will have some of the authors presenting lectures on specific papers. This course meets once weekly.
+
+ * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/) The spectacular recent successes of deep learning are purely empirical. Nevertheless intellectuals always try to explain important developments theoretically. In this literature course we will review recent work of Bruna and Mallat, Mhaskar and Poggio, Papyan and Elad, Bolcskei and co-authors, Baraniuk and co-authors, and others, seeking to build theoretical frameworks deriving deep networks as consequences. After initial background lectures, we will have some of the authors presenting lectures on specific papers. This course meets once weekly.
 
 ### UFLDL
+
 * [UFLDL](http://ufldl.stanford.edu/)
   * [UFLDL tutorial new](http://deeplearning.stanford.edu/tutorial)
   * [UFLDL tutorial old](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
   * [UFLDL tutorial old(中文翻译)](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
 ## 纽约大学
+
 * [Introduction To Machine Learning Spring 2016](http://cs.nyu.edu/~dsontag/courses/ml16/)
 
 ## 國立臺灣大學
+
 * [Machine Learning Foundations (機器學習基石)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
 * [Machine Learning Techniques (機器學習技法)](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
 * [Machine Learning 2017](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html) 台大机器学习课程 2017
 
 # 大学实验室
+
 * [南京大学机器学习与数据挖掘研究所](http://lamda.nju.edu.cn/)
   * [周志华](http://cs.nju.edu.cn/zhouzh/)
   * [魏秀参](http://lamda.nju.edu.cn/weixs/)
@@ -132,7 +139,7 @@
   * [李宏毅 (Hung-yi Lee)](http://speech.ee.ntu.edu.tw/~tlkagk/)
 * [國立臺灣大學 資訊工程學系](https://www.csie.ntu.edu.tw/)
   * [林軒田(Hsuan-Tien Lin)](http://www.csie.ntu.edu.tw/~htlin/)
-  
+* [Massih-Reza Amini](http://ama.liglab.fr/~amini/)  Professor of Computer Science Head of AMA team of LIG
 
 # 书
 
@@ -173,7 +180,6 @@
   * [WILLIAM CHEN ON QUORA](https://www.quora.com/profile/William-Chen-6)
 * [ZY | 数林觅风](https://woaielf.github.io/)
 * [Pinch of Intelligence](http://www.pinchofintelligence.com/)
-* [PullString | Powering Computer Conversation]() PullString, Inc. is leading the field of computer conversation in text, voice, and video through a combination of design and technology. The company's primary product, the PullString Platform, offers a professional authoring environment, hosted AI and machine learning runtime, and integrated conversation analytics to enterprises, agencies, and startups across verticals as diverse as entertainment, customer service, travel, automotive, health and fitness, finance, human resources, and IoT.
 
 
 
