@@ -46,6 +46,7 @@
 * [Water Programming: A Collaborative Research Blog](https://waterprogramming.wordpress.com/)  Python
 * [MTU Ninja](https://vincent.bernat.im/en/blog/)  network
 * [John D. Cook](https://www.johndcook.com/blog/)  algorithm
+* [Wojciech Muła](http://0x80.pl/index.html)  optimization
 
 # chinese
 
