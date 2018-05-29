@@ -78,6 +78,18 @@
 
 # 别人搜集整理的资源列表
 
+* [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl)
+* [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+* [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
+* [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
+* [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing)
+* [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+* [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
+* [jbmusso/awesome-graph](https://github.com/jbmusso/awesome-graph)
 * [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
   * [自上而下的学习路线: 软件工程师的机器学习](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
@@ -93,6 +105,8 @@
 * [Object Detection](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 * [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)
 * [vyraun/Megalodon](https://github.com/vyraun/Megalodon)  Various ML/DL Resources organised at a single place.
+* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)
 
 # 课程
 

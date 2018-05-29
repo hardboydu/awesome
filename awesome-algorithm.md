@@ -1,24 +1,24 @@
+# Awesome
+
 * [tayllan/awesome-algorithms](https://github.com//tayllan/awesome-algorithms) A curated list of awesome places to learn and/or practice algorithms. Inspired by awesome-awesomeness and all the other awesome Awesome libraries.
-* [Open Data Structures](http://opendatastructures.org/)  [github](https://github.com/patmorin/ods) Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs.
-* [wikipedia Book:Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
-* [wikipedia Book:Data Structures Fundamental tools](https://en.wikibooks.org/wiki/Data_Structures)
-* [FXT: a library of algorithms](http://jjj.de/fxt/fxtpage.html)
-* [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/)
-* [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/)
-* [A book on algorithmic graph theory](https://code.google.com/archive/p/graphbook/)
 * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) 算法和数据结构部分
-* [Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY) 算法新解
-* [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程
 * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/)
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 * [Implementation of the algorithm](https://github.com/zhangzewen/Algorithms)
 * [PKU JudgeOnline](http://poj.org/)
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads//)
 * [VisuAlgo](https://visualgo.net)  visualising data structures and algorithms through animation
-* [University of Waterloo Algorithms and Data Structures](https://ece.uwaterloo.ca/~dwharder/aads/)
 * [IDEA – nonverbal algorithm assembly instructions](https://idea-instructions.com/)
 
+# Books
 
+* [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/)
+* [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/)
+* [wikipedia Book:Fundamental Data Structures](https://en.wikipedia.org/wiki/Book:Fundamental_Data_Structures)
+* [wikipedia Book:Data Structures Fundamental tools](https://en.wikibooks.org/wiki/Data_Structures)
+* [Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY) 算法新解
+* [A book on algorithmic graph theory](https://code.google.com/archive/p/graphbook/)
+* [Open Data Structures](http://opendatastructures.org/)  [github](https://github.com/patmorin/ods) Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs.
 
 # Courses
 
@@ -49,7 +49,15 @@
 * [CS 5114: Theory of Algorithms](http://courses.cs.vt.edu/~cs5114/)
 * [CS 6604: Reinventing CS Education through the eTextbook(Algorithm Visualization)](http://people.cs.vt.edu/~shaffer/CS6604/)
 
+## University of Waterloo
+
+* [University of Waterloo Algorithms and Data Structures](https://ece.uwaterloo.ca/~dwharder/aads/)
+
 # Library
 
 * [C Algorithms Library](https://github.com/fragglet/c-algorithms/)
+* [FXT: a library of algorithms](http://jjj.de/fxt/fxtpage.html)
 
+# Other
+
+* [中国农历算法](http://ccal.chinesebay.com/ccal/index.html) ccal 开源工程

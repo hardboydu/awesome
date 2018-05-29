@@ -47,6 +47,7 @@
 * [MTU Ninja](https://vincent.bernat.im/en/blog/)  network
 * [John D. Cook](https://www.johndcook.com/blog/)  algorithm
 * [Wojciech Muła](http://0x80.pl/index.html)  optimization
+* [BJÖRN HÖHRMANN](http://bjoern.hoehrmann.de/) optimization
 
 # chinese
 
