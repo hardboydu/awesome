@@ -81,6 +81,7 @@
 * [Modernes Cpp](https://github.com/RainerGrimm/ModernesCppSource)
 * [rxterm](https://github.com/loopperfect/rxterm) A C++ library for functional-reactive terminals. RxTerm is a lean alternative to ncurses for many applications.
 * [Buckaroo](https://buckaroo.pm/) Buckaroo is a package manager for C/C++
+* [abseil.io](https://abseil.io) is an open-source collection of C++ library code designed to augment the C++ standard library. The Abseil library code is collected from Google’s own C++ code base, has been extensively tested and used in production, and is the same code we depend on in our daily coding lives.
 
 # VIM
 
