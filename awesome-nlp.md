@@ -7,3 +7,6 @@
 * [语料库语言学在线](http://www.corpus4u.org/)
 * [Chinese vector service](https://embedding.github.io/)  
     * [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+* [brightmart/text_classification](https://github.com/brightmart/text_classification)
+* [fendouai/Awesome-Text-Classification](https://github.com/fendouai/Awesome-Text-Classification)
+* 
