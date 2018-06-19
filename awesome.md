@@ -67,6 +67,7 @@
 # C
 
 * [comp.lang.c Frequently Asked Questions](http://c-faq.com/index.html)
+* [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 
 # C++
 

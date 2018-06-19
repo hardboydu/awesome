@@ -170,6 +170,7 @@
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [Machine learning slides](https://github.com/dmitriydligach/PyMLSlides)
 * [A First Course in Machine Learning - second edition](http://www.dcs.gla.ac.uk/~srogers/firstcourseml/)
+* [A Course in Machine Learning](http://ciml.info/)
 
 # 网站
 
