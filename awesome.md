@@ -68,6 +68,7 @@
 
 * [comp.lang.c Frequently Asked Questions](http://c-faq.com/index.html)
 * [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+* [it4e/CHL](https://github.com/it4e/CHL/)   C Hypertext Library - A library for writing web applications in C
 
 # C++
 

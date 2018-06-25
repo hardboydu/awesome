@@ -16,4 +16,5 @@
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)  PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator. It is written and maintained primarily by Simon Tatham.
 * [Putty ICEIV](http://ice.hotmint.com/putty/d2ddw.html) putty Direct2D/DirectWrite
 * [NoiseByNorthwest/term-mode7](https://github.com/NoiseByNorthwest/term-mode7)  SNES's mode7 like rendering in a terminal
-* [A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible)
+* [A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible)\
+* [antirez/kilo](https://github.com/antirez/kilo)  A text editor in less than 1000 LOC with syntax highlight and search.

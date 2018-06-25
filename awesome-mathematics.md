@@ -1,3 +1,4 @@
 * [A First Course in Linear Algebra](http://linear.ups.edu)  A First Course in Linear Algebra is an introductory textbook designed for university sophomores and juniors. Typically such a student will have taken calculus, but this is not a prerequisite. The book begins with systems of linear equations, then covers matrix algebra, before taking up finite-dimensional vector spaces in full generality. The final chapter covers matrix representations of linear transformations, through diagonalization, change of basis and Jordan canonical form. Along the way, determinants and eigenvalues get fair time.
 * [My Math Guide](http://mymathguide.zohosites.com/Home.html)
 * [MIT 6.042 Math For Computer Science](https://courses.csail.mit.edu/6.042)
+* [llSourcell/learn_math_fast](https://github.com/llSourcell/learn_math_fast)
